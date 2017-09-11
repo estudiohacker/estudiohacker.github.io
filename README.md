@@ -1,4 +1,11 @@
-<p class="h0"><strong>estúdio hacker</strong></p>
+# estúdio hacker
+
+## Redes Sociais
+* [twitter.com/estudiohacker](http://twitter.com/estudiohacker)
+* [facebook.com/estudiohacker](https://www.facebook.com/estudiohacker)
+
+## Contato
+[envie uma mensagem](https://docs.google.com/forms/d/1kIa9-KfjdoMsAOIdv8ikkvAwN3jpIISr8Ax-toXptMs/)
 
 ## Atividades recentes
 
@@ -9,17 +16,10 @@ Hack Day é um esforço coletivo no qual pessoas se reúnem por oito horas para 
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/130859_PROJETO+HACK+DAY)
 
-### Inauguraço do SESC 24 de maio
+### Inauguração do SESC 24 de maio
 Dias 19/08, Sábado, das 10h às 18h e 20/08, Domingo, das 10h às 17h no Espaço de Tecnologias e Artes
 
 Intervenção que utiliza processos de aprendizagem colaborativa para disseminar as práticas da cultura hacker. Serão apresentados nesta vivência os projetos Automação de uma casa, #RobosPisca, Eletrônica Lúdica, Horta Inteligente e Arte Robótica. Livre. Com Maurício S. Mudrik, Alexandre Villares, Monica Rizzolli, Allan Moreira, João Adriano Freitas.
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/130647_ESTUDIO+HACKER)
-
-## Redes Sociais
-* [twitter.com/estudiohacker](http://twitter.com/estudiohacker)
-* [facebook.com/estudiohacker](https://www.facebook.com/estudiohacker)
-
-## Contato
-[envie uma mensagem](https://docs.google.com/forms/d/1kIa9-KfjdoMsAOIdv8ikkvAwN3jpIISr8Ax-toXptMs/)
 
