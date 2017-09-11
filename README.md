@@ -7,6 +7,8 @@
 
 Hack Day é um esforço coletivo no qual pessoas se reúnem por oito horas para debater ideias e desenvolver projetos com os temas: robótica, internet das coisas, arte e programação. Os participantes formam grupos conforme seus interesses e desenvolvem um mini projeto relacionado ao tema escolhido, tudo com a orientação de especialistas nas áreas. O evento começa com uma explicação da dinâmica e uma apresentação dos temas. Ao fim, os participantes apresentam suas criações e compartilham o conhecimento adquirido durante o processo.
 
+Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/130859_PROJETO+HACK+DAY)
+
 ### Inauguraço do SESC 24 de maio
 Dias 19/08, Sábado, das 10h às 18h e 20/08, Domingo, das 10h às 17h no Espaço de Tecnologias e Artes
 
