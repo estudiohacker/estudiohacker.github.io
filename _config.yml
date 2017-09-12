@@ -17,4 +17,6 @@ author_email: contato@estudiohacker.io
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
 url: http://estudiohacker.io
 
+logo: /assets/logo.png
+
 google_analytics: UA-106321225-1
