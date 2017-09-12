@@ -87,12 +87,7 @@ small {
   position: relative;
 }
 
-h1 {
-    font-family: 'Fira Sans', sans-serif;
-    text-indent: -9999px;                 /* sends the text off-screen */
-    height: 1px;                        /* be sure to set height & width */
-    width: 600px;
-}
+h1,
 h2,
 h3,
 h4,
