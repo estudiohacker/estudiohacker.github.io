@@ -10,6 +10,14 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 
 ## Atividades recentes
 
+### SP MakerWeek
+
+Como parte do SP MakerWeek, estaremos durante o dia todo mostrando algumas produções (Cubo de LEDs, Casinha automatizada, Pilãobo, entre outros, também apresentadas na inauguração do SESC 24 de maio e Estúdio Hacker Day), e, das 13hs às 15hs, faremos a famosa oficina #RoboPisca.
+
+Venha conhecer nossa mistura multidisciplinar de artes, pedagogia e cultura hacker!
+
+Mais informações na [página do SP MAKERWEEK](https://www.sympla.com.br/sp-makerweek__174304)
+
 ### Estúdio Hacker Day no SESC 24 de maio
 7 de setembro, das 09:30 às 17:30 no Espaço de Tecnologias e Artes.
 
