@@ -10,6 +10,12 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 
 ## Atividades recentes
 
+### Roadsec
+
+No dia 11 de novembro, estaremos no Roadsec apresentando algumas atividades relacionadas a programação, eletrônica e artes. Além disso, teremos um espaço aberto para troca de ideias e experiências onde podemos discutir alternativas e sugerir soluções técnicas para os projetos trazidos pelos participantes.
+
+Mais informações na [página do Roadsec](https://roadsec.com.br/saopaulo2017/)
+
 ### SP MakerWeek
 
 Como parte do SP MakerWeek, estaremos durante o dia todo mostrando algumas produções (Cubo de LEDs, Casinha automatizada, Pilãobo, entre outros, também apresentadas na inauguração do SESC 24 de maio e Estúdio Hacker Day), e, das 13hs às 15hs, faremos a famosa oficina #RoboPisca.
