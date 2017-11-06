@@ -50,8 +50,24 @@ Intervenção que utiliza processos de aprendizagem colaborativa para disseminar
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/130647_ESTUDIO+HACKER)
 
+### Horta Inteligente no SESC São Caetano
+
+Nos dias 10, 12, 17 e 19 de julho, familiarizaremos os participantes com os primeiros conceitos de eletrônica digital utilizando hardware livre. Após uma introdução ao tema e a apresentação da proposta do projeto, utilizaremos sensores e atuadores para fazermos o monitoramento e a irrigação automática de uma pequena horta. Os participantes colocarão a mão na massa, sem faz de conta, com atividades lúdicas e multidisciplinares norteados pela cultura maker.
+
+Mais informações na [página do SESC](http://www.saocaetanodigital.com.br/ferias-para-criancas-sesc-sao-caetano-realiza-projeto-especial/)
+
+### Customizando um Robô-Pisca no SESC São Caetano
+
+Nos dias 12 e 19 de julho, brincaremos com alguns conceitos da eletrônica através da customização de RobôsPisca. Usando materiais simples, facilmente encontráveis em papelarias, os participantes decorarão os seus kits e experimentarão divertidas programações feitas em controladores Arduino e similares. Na atividade, também experimentarão o processo de solda de componentes, sempre auxiliados pelos artistas presentes. 
+
+Mais informações na [página do SESC](http://www.saocaetanodigital.com.br/ferias-para-criancas-sesc-sao-caetano-realiza-projeto-especial/)
+
+### Arte Robótica no SESC São Caetano
+
+Nos dias 10 e 17 de julho, brincaremos com alguns conceitos da Ciência através da criação de robôs-desenhistas. Usando materiais simples, reciclados ou facilmente encontráveis em papelarias, de materiais de eletrônica ou até mesmo de desmanches de computadores, os participantes terão a oportunidade de criar junto aos artistas uma pequena variedade de robôs autônomos.
+
+Mais informações na [página do SESC](http://www.saocaetanodigital.com.br/ferias-para-criancas-sesc-sao-caetano-realiza-projeto-especial/)
+
 ### Laboratório de (des)computadores, jogos e desafios no SESC Santo Amaro
 
 Todas as sextas do mês de junho, desmistificaremos diversos conceitos de ciência da computação através de atividades cinestésicas sem a utilização de computadores. Por meio de gincanas e jogos divertidos, abordamos temas como números binários, representação de imagem, detecção de erros, algoritmos de busca, redes de ordenação, roteamento e becos sem saída, simulação de um computador e criptografia com chave pública. Ótima abordagem para estimular novos conhecimentos, pensamento computacional fora do laboratório, longe do computador para todas as idades.
-
-
