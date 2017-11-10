@@ -14,6 +14,8 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 
 Dia 15 de novembro estaremos no SESC Itaquera entre às 12:00 e às 17:00 apresentando algumas das produções realizadas em nossas oficinas, vivências, cursos e intervenções artísticas, entre elas a automação residencial de uma casinha de bonecas, a lousa mágica e o #ROBOPISCA. As atividades tem como objetivo brincar com os conceitos de programação, eletrônica e artes. Além disso, teremos um espaço aberto para troca de ideias e experiências onde podemos discutir alternativas e sugerir soluções técnicas para os projetos trazidos pelos participantes.
 
+Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/137278_ESTUDIO+HACKER)
+
 ### Roadsec
 
 No dia 11 de novembro, estaremos no Roadsec apresentando algumas atividades relacionadas a programação, eletrônica e artes. Além disso, teremos um espaço aberto para troca de ideias e experiências onde podemos discutir alternativas e sugerir soluções técnicas para os projetos trazidos pelos participantes.
