@@ -1,8 +1,14 @@
 /*! style.css v1.0.0-alpha-8 | ISC License | https://github.com/ungoldman/style.css */
 @import url('https://fonts.googleapis.com/css?family=Fira+Mono|Fira+Sans');
 
+@font-face {
+  font-family: 'Fira Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Fira Mono Regular'), local('FiraMono-Regular'), url(https://fonts.gstatic.com/s/firamono/v6/SlRWfq1zeqXiYWAN-lnG-ltXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2212, U+2215;
+}
 
-font-style: normal; }
 html {
   padding-left: 3%;
   padding-right: 3%;
@@ -10,7 +16,7 @@ html {
   color: #303030;
   background-color: white;
   box-sizing: border-box;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Fira Mono";
   font-size: calc(16px + 0.25vw);
   line-height: 1.4;
    -ms-text-size-adjust: 100%;
