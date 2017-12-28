@@ -8,7 +8,7 @@ Pretendemos durante a ocupação em fevereiro de 2018 preparar objetos para o pr
 
 ### Fatias de código
 
-Uma exposição tem como objetivo desmistificar e ao mesmo tempo explorar esteticamente o código de programação, apresentando-o impresso, junto à manifestação digital correspondente de sua execução.
+Exposição com o propósito de desmistificar, e ao mesmo tempo explorar esteticamente, o código de programação, apresentando-o impresso, junto à manifestação digital correspondente de sua execução.
 
 Artefatos  que poderão ser desenvolvidos
 
