@@ -10,7 +10,7 @@ Pretendemos durante a ocupação em fevereiro de 2018 preparar objetos para o pr
 
 Exposição com o propósito de desmistificar, e ao mesmo tempo explorar esteticamente, o código de programação, apresentando-o impresso, junto à manifestação digital correspondente de sua execução.
 
-Artefatos  que poderão ser desenvolvidos
+Exemplos de artefatos que poderão ser desenvolvidos
 
 - Trechos de GCODE (usado no Controle Numérico Computadorizado, CNC, da fabricação digital) com o respectivo objeto fabricado;
 - Loop de um jogo em Scratch, e elementos do jogo que este controla;
