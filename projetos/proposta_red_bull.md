@@ -17,16 +17,18 @@ Loop de um jogo em Scratch, e os elementos do jogo que este controla;
 Código em Wiring/C junto à instalação com  Arduino que o executa;
 Trechos em Processing e o resultado visual que é obtido na execução.
 
-Como exemplo anteriormente realizado, apresentamos  o autômato celular de Wolfram em matriz de LED apresentado por Tiago  Queiroz e Alexandre Villares na exposição Zonas de Compensação 3.0, IA - UNESP, 2016.
+Como exemplo anteriormente realizado, apresentamos  o autômato celular de Wolfram em matriz de LED 8x8 apresentado por Tiago  Queiroz e Alexandre Villares na exposição Zonas de Compensação 3.0, IA - UNESP, 2016.
 
-![ imagem ](/assets/queiroz_villares_2016.jpg
+![ Matriz 8x8 ](assets/queiroz_villares_2016.jpg)
 
-[Vídeo da instalação](/assets/queiroz_villares_2016_A.mp4)
+
+
+[Vídeo da instalação](assets/queiroz_villares_2016_A.mp4)
 
 ### proponentes
 
 **João Adriano Freitas** é graduado em engenharia elétrica com ênfase em sistemas eletrônicos pela Universidade de São Paulo. Trabalha há muitos anos como engenheiro de software, sendo os últimos 12 voltados ao mercado financeiro. No último ano ministrou cursos e realizou intervenções artísticas nas áreas de arte e tecnologia nos SESCs Itaquera, Carmo, São Caetano, Santo Amaro e 24 de maio. Além disso, faz parte da Rede Brasileira de Aprendizagem Criativa, onde a sua maior contribuição tem sido na aprendizagem criativa em espaços não-formais.
- 
+
 **Monica Rizzolli** é graduada em Artes Plásticas pelo Instituto de Artes da UNESP e possui especialização em desenho pela Kunsthochschule Kassel (Alemanha), na classe Johannes Spehr. Desde 2012 participa de projetos internacionais como MAK Center Artists and Architects (EUA), Creatives in Residence (China), Sweet Home (Espanha) e A.I.R. DRAWinternational (França). Em 2015 recebeu o prêmio MAK Schindler, do MAK-Viena. Organiza com Alexandre Villares a Noite de Processing, no Garoa Hacker Clube.
 
 **Alexandre B A Villares** é arquiteto graduado pela Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo - FAUUSP. Professor na Escola da Cidade - Faculdade de Arquitetura e Urbanismo, desde 2005. Inscrito no programa de mestrado ATC-FEC da Unicamp, onde pesquisa o ensino de programação num contexto visual. Organiza com Monica Rizzolli a Noite de Processing, encontro mensal sobre arte e programação, no Garoa Hacker Clube. Ministra diversos cursos e oficinas com foco na tecnologia aplicada à arte e ao design.
