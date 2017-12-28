@@ -4,7 +4,7 @@
 
 O **estúdio hacker** realiza atividades tecnológicas e artísticas, baseados na filosofia hacker e na metodologia pedagógica Aprendizagem Criativa. Como grupo multidisciplinar nômade, a possibilidade de desenvolver um projeto em local fixo, ainda que temporário, permitirá o uso da infraestrutura e ferramentas no espaço para a produção de artefatos artísticos e educacionais, assim como a conexão com outras pessoas e grupos, especial oportunidade de inspirar e compartilhar conhecimentos no espírito da filosofia hacker.
 
-Pretendemos em durante a ocupação em fevereiro de 2018 preparar objetos para o projeto de exposição "Fatias de código".
+Pretendemos durante a ocupação em fevereiro de 2018 preparar objetos para o projeto de exposição "Fatias de código".
 
 ### Fatias de código
 
