@@ -25,7 +25,9 @@ Como referência  anteriormente realizada, apresentamos  o autômato celular de 
 
 [Vídeo da instalação](assets/queiroz_villares_2016_A.mp4)
 
-### proponentes
+### Proponentes
+
+
 
 **João Adriano Freitas** é graduado em engenharia elétrica com ênfase em sistemas eletrônicos pela Universidade de São Paulo. Trabalha há muitos anos como engenheiro de software, sendo os últimos 12 voltados ao mercado financeiro. No último ano ministrou cursos e realizou intervenções artísticas nas áreas de arte e tecnologia nos SESCs Itaquera, Carmo, São Caetano, Santo Amaro e 24 de maio. Além disso, faz parte da Rede Brasileira de Aprendizagem Criativa, onde a sua maior contribuição tem sido na aprendizagem criativa em espaços não-formais.
 
