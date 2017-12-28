@@ -1,10 +1,27 @@
-### estúdio hacker
+# [estúdio hacker](/)
 
-### proposta de ocupaço Red Bull Station
+## proposta de ocupaço Red Bull Station
 
-O **estúdio hacker** realiza atividades tecnológicas e artísticas, baseados na filosofia hacker e na metodologia pedagógica Aprendizagem Criativa. Como grupo multidisciplinar nômade, a possibilidade de desenvolver um projeto em local fixo, ainda que temporário, permitirá a conexão com outras pessoas e grupos e é  vista como especial oportunidade de inspirar e compartilhar conhecimentos no espírito da filosofia hacker.
+O **estúdio hacker** realiza atividades tecnológicas e artísticas, baseados na filosofia hacker e na metodologia pedagógica Aprendizagem Criativa. Como grupo multidisciplinar nômade, a possibilidade de desenvolver um projeto em local fixo, ainda que temporário, permitirá o uso da infraestrutura e ferramentas no espaço para a produção de artefatos artísticos e educacionais, assim como a conexão com outras pessoas e grupos, especial oportunidade de inspirar e compartilhar conhecimentos no espírito da filosofia hacker.
 
+Pretendemos em durante a ocupaço preparar os objetos para o projeto de exposição "Fatias de código"
 
+### Fatias de código
+
+Uma exposição tem como objetivo desmistificar e ao mesmo tempo explorar esteticamente o código de programação, apresentando-o impresso, junto à manifestação digital correspondente de sua execução.
+
+Artefatos  que poderão ser desenvolvidos
+
+Trechos de GCODE (usado no Controle Numérico Computadorizado, CNC, da fabricação digital) com o respectivo objeto fabricado;
+Loop de um jogo em Scratch, e os elementos do jogo que este controla;
+Código em Wiring/C junto à instalação com  Arduino que o executa;
+Trechos em Processing e o resultado visual que é obtido na execução.
+
+Como exemplo anteriormente realizado, apresentamos  o autômato celular de Wolfram em matriz de LED apresentado por Tiago  Queiroz e Alexandre Villares na exposição Zonas de Compensação 3.0, IA - UNESP, 2016.
+
+![ imagem ](/assets/queiroz_villares_2016.jpg
+
+[Vídeo da instalação](/assets/queiroz_villares_2016_A.mp4)
 
 ### proponentes
 
