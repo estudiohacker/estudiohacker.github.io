@@ -8,6 +8,24 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 ## Contato
 [envie uma mensagem](https://docs.google.com/forms/d/1kIa9-KfjdoMsAOIdv8ikkvAwN3jpIISr8Ax-toXptMs/)
 
+----
+
+## Próximas atividades
+
+### Estúdio Hacker Luz e Sombra (animação o quadro a quadro)
+
+Dia 6 de janeiro na Biblioteca Villa Lobos
+
+Dia 13 de janeiro na Biblioteca São Paulo
+
+Dias 16, 17, 22 e 23 de janeiro no SESC São Caetano
+
+### Estúdio Hacker no SESC Birigui
+
+Dias 20 e 21 de janeiro - Customizando #ROBOPISCA, Robô escovinha e Lousa Mágica
+
+----
+
 ## Atividades recentes
 
 ### SESC Itaquera
