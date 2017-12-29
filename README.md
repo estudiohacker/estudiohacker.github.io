@@ -14,15 +14,15 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 
 ### Estúdio Hacker Luz e Sombra (animação o quadro a quadro)
 
-Dia 6 de janeiro na Biblioteca Villa Lobos
+Dia 6 de janeiro de 2018 na Biblioteca Villa Lobos
 
-Dia 13 de janeiro na Biblioteca São Paulo
+Dia 13 de janeiro de 2018 na Biblioteca São Paulo
 
-Dias 16, 17, 22 e 23 de janeiro no SESC São Caetano
+Dias 16, 17, 22 e 23 de janeiro de 2018 no SESC São Caetano
 
 ### Estúdio Hacker no SESC Birigui
 
-Dias 20 e 21 de janeiro - Customizando #ROBOPISCA, Robô escovinha e Lousa Mágica
+Dias 20 e 21 de janeiro de 2018 - Customizando #ROBOPISCA, Robô escovinha e Lousa Mágica
 
 ## Atividades recentes
 
@@ -30,11 +30,11 @@ Dias 20 e 21 de janeiro - Customizando #ROBOPISCA, Robô escovinha e Lousa Mági
 
 ### SESC Itaquera
 
-Dia 15 de novembro no SESC Itaquera entre às 12:00 e às 17:00 foram apresentadas algumas das produções realizadas em nossas oficinas, vivências, cursos e intervenções artísticas, entre elas a automação residencial de uma casinha de bonecas, a lousa mágica e o #ROBOPISCA. As atividades tem como objetivo brincar com os conceitos de programação, eletrônica e artes. Além disso, teremos um espaço aberto para troca de ideias e experiências onde podemos discutir alternativas e sugerir soluções técnicas para os projetos trazidos pelos participantes.
+Dia 15 de novembro no SESC Itaquera de 2017 entre às 12:00 e às 17:00 foram apresentadas algumas das produções realizadas em nossas oficinas, vivências, cursos e intervenções artísticas, entre elas a automação residencial de uma casinha de bonecas, a lousa mágica e o #ROBOPISCA. As atividades tem como objetivo brincar com os conceitos de programação, eletrônica e artes. Além disso, teremos um espaço aberto para troca de ideias e experiências onde podemos discutir alternativas e sugerir soluções técnicas para os projetos trazidos pelos participantes.
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/137278_ESTUDIO+HACKER)
 
-### Roadsec
+### Roadsec 2017
 
 No dia 11 de novembro, estivemos no Roadsec apresentando algumas atividades relacionadas a programação, eletrônica e artes. Além disso, tivemos um espaço aberto para troca de ideias e experiências onde podemos discutir alternativas e sugerir soluções técnicas para os projetos trazidos pelos participantes.
 
@@ -42,11 +42,11 @@ Mais informações na [página do Roadsec](https://roadsec.com.br/saopaulo2017/)
 
 ### Curso de Horta Inteligente no SESC Santo André
 
-Nos sábados à tarde do mês de outubro e novembro, fizemos uma introdução aos conceitos de eletrônica digital em um projeto de monitoramento e irrigação automática de uma pequena horta. Os participantes puderam por a mão na massa, aprendendo a utilizar sensores e atuadores, com atividades lúdicas e multidisciplinares norteadas pela cultural maker.
+Nos sábados à tarde do mês de outubro e novembro de 2017, fizemos uma introdução aos conceitos de eletrônica digital em um projeto de monitoramento e irrigação automática de uma pequena horta. Os participantes puderam por a mão na massa, aprendendo a utilizar sensores e atuadores, com atividades lúdicas e multidisciplinares norteadas pela cultural maker.
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/131050_HORTA+INTELIGENTE)
 
-### SP MakerWeek
+### SP MakerWeek 2017
 
 Como parte do SP MakerWeek, estivemos dia 30 de setembro durante o dia todo apresentando algumas produções (Cubo de LEDs, Casinha automatizada, Pilãobo, entre outros, também apresentadas na inauguração do SESC 24 de maio e Estúdio Hacker Day), e, das 13hs às 15hs, fizemos a famosa oficina #RoboPisca.
 
@@ -56,7 +56,7 @@ Mais informações na [página do SP MAKERWEEK](https://www.sympla.com.br/sp-mak
 
 ### Estúdio Hacker Day no SESC 24 de maio
 
-Dia 7 de setembro, das 09:30 às 17:30 no Espaço de Tecnologias e Artes.
+Dia 7 de setembro de 2017, das 09:30 às 17:30 no Espaço de Tecnologias e Artes.
 
 Hack Day é um esforço coletivo no qual pessoas se reúnem por oito horas para debater ideias e desenvolver projetos com os temas: robótica, internet das coisas, arte e programação. Os participantes formam grupos conforme seus interesses e desenvolvem um mini projeto relacionado ao tema escolhido, tudo com a orientação de especialistas nas áreas. O evento começa com uma explicação da dinâmica e uma apresentação dos temas. Ao fim, os participantes apresentam suas criações e compartilham o conhecimento adquirido durante o processo.
 
@@ -64,7 +64,7 @@ Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/130859_P
 
 ### Inauguração do SESC 24 de maio
 
-Dias 19/08, Sábado, das 10h às 18h e 20/08, Domingo, das 10h às 17h no Espaço de Tecnologias e Artes
+Dias 19 e 20 de outubro de 2017 (sábado e domingo) durante a inauguraço da unidade 24 de maio do SESC, no Espaço de Tecnologias e Artes.
 
 Intervenção para disseminar as práticas da cultura hacker. Foram apresentados nesta vivência os projetos Automação de uma casa, #RobosPisca, Eletrônica Lúdica, Horta Inteligente e Arte Robótica. Livre. Com Maurício S. Mudrik, Alexandre Villares, Monica Rizzolli, Allan Moreira, João Adriano Freitas.
 
