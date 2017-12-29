@@ -1,16 +1,16 @@
 # estúdio hacker
 Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, baseados na filosofia hacker e na metodologia pedagógica Aprendizagem Criativa.
 
-## Redes Sociais
+### Redes Sociais
 * [twitter.com/estudiohacker](http://twitter.com/estudiohacker)
 * [facebook.com/estudiohacker](https://www.facebook.com/estudiohacker)
 
-## Contato
+### Contato
 [envie uma mensagem](https://docs.google.com/forms/d/1kIa9-KfjdoMsAOIdv8ikkvAwN3jpIISr8Ax-toXptMs/)
 
-----
-
 ## Próximas atividades
+
+----
 
 ### Estúdio Hacker Luz e Sombra (animação o quadro a quadro)
 
@@ -24,9 +24,9 @@ Dias 16, 17, 22 e 23 de janeiro no SESC São Caetano
 
 Dias 20 e 21 de janeiro - Customizando #ROBOPISCA, Robô escovinha e Lousa Mágica
 
-----
-
 ## Atividades recentes
+
+----
 
 ### SESC Itaquera
 
