@@ -22,7 +22,11 @@ Dias 16, 17, 22 e 23 de janeiro de 2018 no SESC São Caetano
 
 ### Estúdio Hacker no SESC Birigui
 
-Dias 20 e 21 de janeiro de 2018 - Customizando #ROBOPISCA, Robô escovinha e Lousa Mágica
+Dias 20 e 21 de janeiro de 2018 - Customizando #ROBOPISCA, Arte Robô escovinha, Lousa Mágica, Automação de uma casa e Robô Desenhista
+
+### Estúdio Hacker no SESC Presidente Prudente
+
+Dias 25 e 26 de janeiro de 2018 - Estúdio Hacker Day e Robô Desenhista
 
 ## Atividades recentes
 
