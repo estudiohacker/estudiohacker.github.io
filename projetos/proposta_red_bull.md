@@ -38,6 +38,6 @@ Como referência  anteriormente realizada, apresentamos  o autômato celular de 
 **Allan Moreira** é apaixonado por tecnologia, atuando com eletrônica desde 1994, desenvolvendo software desde 1996. Professor de eletrônica analógica, eletrônica digital, microcontroladores e programação. Graduando em Engenharia da Computação na UNIVESP. Em 2016 criou o RoboPisca, um kit para ensino de solda, eletrônica e programação, lançado na Campus Party 2017.
 Atua em diversos projetos sociais voltados para educação de novas tecnologias para crianças, adultos e professores.
 
-**Maurício Sandler Mudrik** é editor, livre-pensador, consultor-inovador nas áreas de telecomunicações, T.I. e I.T.S. Com mais de 25 anos atuando em diversas áreas tecnológicas, “está” pesquisador-especialista no GAESI/POLI/USP nos projetos SAT-RP e CIMU e atua em diversos projetos de inovação, com técnicas de Design Thinking.
-Apaixonado pela Aprendizagem Criativa (na qual faz parte do Grupo de Trabalho de espaços de aprendizagem não-formais) e por cultura hacker, tem sido um dos incentivadores destas filosofias. 
+**Maurício Sandler Mudrik** é editor, livre-pensador, consultor-inovador nas áreas de telecomunicações, T.I. e I.T.S. Com mais de 25 anos atuando em diversas áreas tecnológicas, foi pesquisador-especialista no GAESI/POLI/USP nos projetos SAT-RP e CIMU e atua em diversos projetos de inovação, com técnicas de Design Thinking.
+Apaixonado pela Aprendizagem Criativa (na qual faz parte do Grupo de Trabalho de espaços de aprendizagem não-formais) e por cultura hacker, tem sido um dos incentivadores destas filosofias.
 
