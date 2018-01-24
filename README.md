@@ -11,6 +11,14 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 ## Próximas atividades
 
 ----
+### Estúdio Hacker na Campus Party (estréia do espaço Educação do Futuro, _gratuito_)
+
+Entre os dias 31/01 e 03/02 apresentaremos, na área dedicada à Aprendizagem Criativa, palestras rápidas, oficinas e mostras interativas.
+Oficina de solda com #RoboPisca, BBC micro:bit na educação, sequência pedagógica desplugada, BBC micro:bit e o mundo físico, mostra das produções que resultaram de algumas das nossas oficinas... Em resumo, uma programação intensa, cheia de momentos mão-na-massa e de compartilhamento de conhecimento, tudo num misto de cultura hacker, maker, embasados nas metodologias e preocupações pedagógicas da Aprendizagem Criativa.
+
+Mais informações na [agenda da Campus Party](http://brasil.campus-party.org/educacao-do-futuro/)
+
+Confirme sua participação no evento, no [Facebook](https://www.facebook.com/events/398842237204758/)
 
 ### Estúdio Hacker Luz e Sombra (animação o quadro a quadro)
 
