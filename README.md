@@ -59,13 +59,13 @@ Veja também [artigo a respeito da atividade](http://imparcial.com.br/noticias/o
 
 ### Estúdio Hacker no SESC Birigui
 
-Dias 20 e 21 de janeiro de 2018 - Customizando #ROBOPISCA, Arte Robô escovinha, Lousa Mágica, Automação de uma casa e Robô Desenhista
+Entre os dias 20 e 21 de janeiro de 2018, João Adriano Freitas e Monica Rizzolli estiveram no SESC Birigui com as oficinas Encontros mão na massa e do Robô Desenhista. Os participantes aprenderam a customizar um #ROBOPISCA, fazer um robô artista, programar uma lousa mágica e também fizeram a automação de uma casa. Além disso, também tivemos uma oficina de Robô Desenhista na qual os participantes aprenderam a montar e programar uma máquina de desenhar.
 
-Veja também [chamada para a atividade no SESC Presidente Prudente](https://www.facebook.com/sescthermas/videos/1920444184693746/) durante a oficina de Robô Desenhista.
+Veja [chamada para a atividade no SESC Presidente Prudente](https://www.facebook.com/sescthermas/videos/1920444184693746/) durante a oficina de Robô Desenhista.
 
 ### Animação quadro a quadro no SESC São Caetano
 
-Estivemos na programação de férias do SESC São Caetano com a oficina Estúdio Hacker Day Luz e Sombra: Animação quadro a quadro. Nos dias 16 e 17 com Maurício Mudrik e Monica Rizzolli e nos dias 22 e 23 com Alexandre Villares e João Adriano Freitas, os participantes aprenderam conceitos de planejamento, roteirização, iluminação, fotografia e vídeo, e a produzirem suas próprias animações.
+Estivemos na programação de férias de janeiro de 2018 do SESC São Caetano com a oficina Estúdio Hacker Day Luz e Sombra: Animação quadro a quadro. Nos dias 16 e 17 com Maurício Mudrik e Monica Rizzolli e nos dias 22 e 23 com Alexandre Villares e João Adriano Freitas, os participantes aprenderam conceitos de planejamento, roteirização, iluminação, fotografia e vídeo, e a produzirem suas próprias animações.
 
 ### Animação quadro a quadro na Biblioteca São Paulo
 
