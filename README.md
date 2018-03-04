@@ -4,6 +4,7 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 ### Redes Sociais
 * [twitter.com/estudiohacker](http://twitter.com/estudiohacker)
 * [facebook.com/estudiohacker](https://www.facebook.com/estudiohacker)
+* [github.com/estudiohacker](https://github.com/estudiohacker)
 
 ### Contato
 [envie uma mensagem](https://docs.google.com/forms/d/1kIa9-KfjdoMsAOIdv8ikkvAwN3jpIISr8Ax-toXptMs/)
@@ -11,34 +12,35 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 ## Próximas atividades
 
 ----
+
+## Atividades recentes
+
+----
+
 ### Estúdio Hacker na Campus Party (estréia do espaço Educação do Futuro, _gratuito_)
 
-Entre os dias 31/01 e 03/02 apresentaremos, na área dedicada à Aprendizagem Criativa, palestras rápidas, oficinas e mostras interativas.
+Entre os dias 31/01 e 03/02 apresentamos, na área dedicada à Aprendizagem Criativa, palestras rápidas, oficinas e mostras interativas.
 Oficina de solda com #RoboPisca, BBC micro:bit na educação, sequência pedagógica desplugada, BBC micro:bit e o mundo físico, mostra das produções que resultaram de algumas das nossas oficinas... Em resumo, uma programação intensa, cheia de momentos mão-na-massa e de compartilhamento de conhecimento, tudo num misto de cultura hacker, maker, embasados nas metodologias e preocupações pedagógicas da Aprendizagem Criativa.
 
 Mais informações na [agenda da Campus Party](http://brasil.campus-party.org/educacao-do-futuro/)
 
-Confirme sua participação no evento, no [Facebook](https://www.facebook.com/events/398842237204758/)
+### Estúdio Hacker no SESC Presidente Prudente
+
+Dias 25 e 26 de janeiro de 2018 - Estúdio Hacker Day e Robô Desenhista
+
+### Estúdio Hacker no SESC Birigui
+
+Dias 20 e 21 de janeiro de 2018 - Customizando #ROBOPISCA, Arte Robô escovinha, Lousa Mágica, Automação de uma casa e Robô Desenhista
+
+### Estúdio Hacker Luz e Sombra (animação o quadro a quadro)
+
+Dias 16, 17, 22 e 23 de janeiro de 2018 no SESC São Caetano
 
 ### Estúdio Hacker Luz e Sombra (animação o quadro a quadro)
 
 Dia 6 de janeiro de 2018 na Biblioteca Villa Lobos
 
 Dia 13 de janeiro de 2018 na Biblioteca São Paulo
-
-Dias 16, 17, 22 e 23 de janeiro de 2018 no SESC São Caetano
-
-### Estúdio Hacker no SESC Birigui
-
-Dias 20 e 21 de janeiro de 2018 - Customizando #ROBOPISCA, Arte Robô escovinha, Lousa Mágica, Automação de uma casa e Robô Desenhista
-
-### Estúdio Hacker no SESC Presidente Prudente
-
-Dias 25 e 26 de janeiro de 2018 - Estúdio Hacker Day e Robô Desenhista
-
-## Atividades recentes
-
-----
 
 ### SESC Itaquera
 
