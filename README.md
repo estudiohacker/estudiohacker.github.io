@@ -51,7 +51,7 @@ Mais informações na [agenda da Campus Party](http://brasil.campus-party.org/ed
 
 ### Estúdio Hacker no SESC Presidente Prudente
 
-Dias 25 e 26 de janeiro de 2018 - Estúdio Hacker Day e Robô Desenhista
+Nos dias 25 e 26 de janeiro de 2018, João Adriano Freitas e Maurício Mudrik estiveram no SESC Presidente Prudente com as oficinas Robô Desenhista e Estúdio Hacker Day. Os participantes aprenderam conceitos básicos de eletrônica, deram seus primeiros passos na programação de microcontroladores e puderam vivenciar algumas de nossas produções como a lousa mágica, #ROBOPISCA, braço robótico, Pilãobo, automação de uma horta etc. Além disso, também tivemos uma oficina de Robô Desenhista na qual os participantes aprenderam a montar e programar uma máquina de desenhar.
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/143848_ESTUDIO+HACKER+DAY)
 
@@ -59,7 +59,7 @@ Veja também [artigo a respeito da atividade](http://imparcial.com.br/noticias/o
 
 ### Estúdio Hacker no SESC Birigui
 
-Entre os dias 20 e 21 de janeiro de 2018, João Adriano Freitas e Monica Rizzolli estiveram no SESC Birigui com as oficinas Encontros mão na massa e do Robô Desenhista. Os participantes aprenderam a customizar um #ROBOPISCA, fazer um robô artista, programar uma lousa mágica e também fizeram a automação de uma casa. Além disso, também tivemos uma oficina de Robô Desenhista na qual os participantes aprenderam a montar e programar uma máquina de desenhar.
+Nos dias 20 e 21 de janeiro de 2018, João Adriano Freitas e Monica Rizzolli estiveram no SESC Birigui com as oficinas Encontros mão na massa e do Robô Desenhista. Os participantes aprenderam a customizar um #ROBOPISCA, fazer um robô artista, programar uma lousa mágica e também fizeram a automação de uma casa. Além disso, também tivemos uma oficina de Robô Desenhista na qual os participantes aprenderam a montar e programar uma máquina de desenhar.
 
 Veja [chamada para a atividade no SESC Presidente Prudente](https://www.facebook.com/sescthermas/videos/1920444184693746/) durante a oficina de Robô Desenhista.
 
