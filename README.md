@@ -34,7 +34,7 @@ Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/14
 
 ### Desenho Robótico Com Arduino no Garagem Fab Lab
 
-No dia 21 de março de 2018, Monica Rizzolli e João Adriano Freitas ensinarão os particpiantes a montar robôs desenhistas que serão programados para desenhar. A oficina inicia com uma breve introdução a técnicas de desenvolvimento de projetos quando os educadores compartilham suas experiências. Em seguida, inicia-se a explicação da parte mecânica e eletrônica do projeto e por fim os participantes têm a oportunidade de programar seus próprios desenhos explorando sua criatividade.
+No dia 21 de março de 2018, Monica Rizzolli e João Adriano Freitas ensinarão os particpiantes a montar robôs desenhistas que serão programados para desenhar. A oficina inicia com uma breve introdução a técnicas de desenvolvimento de projetos quando os educadores compartilham suas experiências. Em seguida, temos uma explicação sobre a parte mecânica e eletrônica do projeto e por fim, os participantes têm a oportunidade de programar seus próprios desenhos explorando sua criatividade.
 
 Mais informações na [página do Garagem Fab Lab](http://www.garagemfablab.com.br/portfolio/desenho-robotico-com-arduino-21-mar/)
 
@@ -69,11 +69,11 @@ Nos dias 25 e 26 de janeiro de 2018, João Adriano Freitas e Maurício Mudrik es
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/143848_ESTUDIO+HACKER+DAY)
 
-Veja também [artigo a respeito da atividade](http://imparcial.com.br/noticias/oficina-ensina-montagem-de-robo-desenhista-no-sesc-thermas,17960).
+Veja também um [artigo a respeito das atividades](http://imparcial.com.br/noticias/oficina-ensina-montagem-de-robo-desenhista-no-sesc-thermas,17960).
 
 ### Estúdio Hacker no SESC Birigui
 
-Nos dias 20 e 21 de janeiro de 2018, João Adriano Freitas e Monica Rizzolli estiveram no SESC Birigui com as oficinas Encontros mão na massa e do Robô Desenhista. Os participantes aprenderam a customizar um #ROBOPISCA, fazer um robô artista, programar uma lousa mágica e também fizeram a automação de uma casa. Além disso, também tivemos uma oficina de Robô Desenhista na qual os participantes aprenderam a montar e programar uma máquina de desenhar.
+Nos dias 20 e 21 de janeiro de 2018, João Adriano Freitas e Monica Rizzolli estiveram no SESC Birigui com as oficinas Encontros mão na massa e Robô Desenhista. Os participantes aprenderam a customizar um #ROBOPISCA, fazer um robô artista, programar uma lousa mágica e também fizeram a automação de uma casa. Além disso, também tivemos uma oficina de Robô Desenhista na qual os participantes aprenderam a montar e programar uma máquina de desenhar.
 
 Veja [chamada para a atividade no SESC Presidente Prudente](https://www.facebook.com/sescthermas/videos/1920444184693746/) durante a oficina de Robô Desenhista.
 
