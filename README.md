@@ -63,13 +63,13 @@ Dias 16, 17, 22 e 23 de janeiro de 2018 no SESC São Caetano
 
 ### Animação quadro a quadro na Biblioteca São Paulo
 
-Dando sequência a programação de férias, dia 13 de janeiro de 2018 estivemos na Biblioteca de São Paulo com a oficina Estúdio Hacker Day Luz e Sombra: Animação Quadro a quadro. Os participantes aprendem conceitos de planejamento, roteirização, iluminação, fotografia e vídeo, e produzem suas próprias animações.
+Dando sequência a programação de férias, dia 13 de janeiro de 2018 estivemos na Biblioteca de São Paulo com a oficina Estúdio Hacker Day Luz e Sombra: Animação quadro a quadro. Alexandre Villares e Monica Rizzolli ensinaram aos participantes conceitos de planejamento, roteirização, iluminação, fotografia e vídeo, e a produzirem suas próprias animações.
 
 Mais informações na [página da Biblioteca de São Paulo](https://bsp.org.br/2017/12/13/ferias-na-biblioteca-maker/)
 
 ### Animação quadro a quadro na Biblioteca Villa Lobos
 
-No dia 6 de janeiro de 2018, estivemos na programação de férias da Biblioteca Parque Villa-Lobos com a oficina Estúdio Hacker Day Luz e Sombra: Animação Quadro a quadro. Os participantes aprenderam conceitos de planejamento, roteirização, iluminação, fotografia e vídeo, e produzem suas próprias animações.
+No dia 6 de janeiro de 2018, estivemos na programação de férias da Biblioteca Parque Villa-Lobos com a oficina Estúdio Hacker Day Luz e Sombra: Animação quadro a quadro. João Adriano Freitas e Monica Rizzolli ensinaram aos participantes conceitos de planejamento, roteirização, iluminação, fotografia e vídeo, e a produzirem suas próprias animações.
 
 Mais informações na [página da Biblioteca Villa-Lobos](https://bvl.org.br/evento/animacao-quadro-a-quadro/)
 
