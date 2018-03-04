@@ -53,6 +53,8 @@ Mais informações na [agenda da Campus Party](http://brasil.campus-party.org/ed
 
 Dias 25 e 26 de janeiro de 2018 - Estúdio Hacker Day e Robô Desenhista
 
+Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/143848_ESTUDIO+HACKER+DAY)
+
 Veja também [artigo a respeito da atividade](http://imparcial.com.br/noticias/oficina-ensina-montagem-de-robo-desenhista-no-sesc-thermas,17960).
 
 ### Estúdio Hacker no SESC Birigui
@@ -63,7 +65,7 @@ Veja também [chamada para a atividade no SESC Presidente Prudente](https://www.
 
 ### Animação quadro a quadro no SESC São Caetano
 
-Dias 16, 17, 22 e 23 de janeiro de 2018 no SESC São Caetano
+Estivemos na programação de férias do SESC São Caetano com a oficina Estúdio Hacker Day Luz e Sombra: Animação quadro a quadro. Nos dias 16 e 17 com Maurício Mudrik e Monica Rizzolli e nos dias 22 e 23 com Alexandre Villares e João Adriano Freitas, os participantes aprenderam conceitos de planejamento, roteirização, iluminação, fotografia e vídeo, e a produzirem suas próprias animações.
 
 ### Animação quadro a quadro na Biblioteca São Paulo
 
