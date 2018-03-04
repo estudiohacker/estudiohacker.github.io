@@ -13,6 +13,16 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 
 ----
 
+### Produção de Placas de Circuito Impresso no SESC Santana
+
+Nos dias 06, 13, 20 e 27 de março de 2018, João Adriano Freitas ensinará hobistas em eletrônica a produzir suas próprias placas, proporcionando assim um resultado mais bem acabado em seus projetos. O curso de 4 aulas começa com uma breve introdução as técnicas de confecção, montagem de um circuito em protoboard e posterior transferência para a placa de fenolite incluindo a soldagem dos componentes. Na segunda metade do curso, os participantes aprendem a desenhar suas próprias placas e desenvolvem um shield de Arduino.
+
+### Contrução de Braço Robótico no SESC Carmo
+
+Nos dias 12, 14, 19 e 21 de março de 2018, João Adriano Freitas ensiará os participantes a montarem braços robóticos que serão controlados por um joystick e programados para automação de tarefas. O curso consiste de 4 aulas que ensina desde a parte da eletrônica envolvida no projeto até a programação.
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/147989_CONTRUCAO+DE+BRACO+ROBOTICO)
+
 ## Atividades recentes
 
 ----
@@ -42,7 +52,7 @@ Dia 6 de janeiro de 2018 na Biblioteca Villa Lobos
 
 Dia 13 de janeiro de 2018 na Biblioteca São Paulo
 
-### SESC Itaquera
+### Estúdio Hacker Day no SESC Itaquera
 
 Dia 15 de novembro no SESC Itaquera de 2017 entre às 12:00 e às 17:00 foram apresentadas algumas das produções realizadas em nossas oficinas, vivências, cursos e intervenções artísticas, entre elas a automação residencial de uma casinha de bonecas, a lousa mágica e o #ROBOPISCA. As atividades tem como objetivo brincar com os conceitos de programação, eletrônica e artes. Além disso, teremos um espaço aberto para troca de ideias e experiências onde podemos discutir alternativas e sugerir soluções técnicas para os projetos trazidos pelos participantes.
 
