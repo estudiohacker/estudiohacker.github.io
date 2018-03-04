@@ -17,6 +17,15 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 
 Nos dias 06, 13, 20 e 27 de março de 2018, João Adriano Freitas ensinará hobistas em eletrônica a produzir suas próprias placas, proporcionando assim um resultado mais bem acabado em seus projetos. O curso de 4 aulas começa com uma breve introdução as técnicas de confecção, montagem de um circuito em protoboard e posterior transferência para a placa de fenolite incluindo a soldagem dos componentes. Na segunda metade do curso, os participantes aprendem a desenhar suas próprias placas e desenvolvem um shield de Arduino.
 
+### Encontros mão na massa no SESC Osasco
+
+Nos dias 10, 17, 24 e 31 de março de 2018, teremos as oficinas Customizando um #ROBOPISCA com João Adriano Freitas e Maurício Mudrik, Lousa Mágica com Alexandre Villares e João Adriano Freitas, Arte Robô Escovinha com Alexandre Villares e Monica Rizzolli e Automação de uma casa com Maurício Mudrik e Monica Rizzolli.
+
+Mais informações na página do SESC:
+* [Customizando um #ROBOPISCA](https://www.sescsp.org.br/programacao/149062_CUSTOMIZANDO+UM+ROBOPISCA)
+* [Arte Robô Escovinha](https://www.sescsp.org.br/programacao/149065_ARTE+ROBO+ESCOVINHA)
+* [Automação de uma casa](https://www.sescsp.org.br/programacao/149068_AUTOMACAO+DE+UMA+CASA)
+
 ### Contrução de Braço Robótico no SESC Carmo
 
 Nos dias 12, 14, 19 e 21 de março de 2018, João Adriano Freitas ensiará os participantes a montar braços robóticos que serão controlados por um joystick e programados para automação de tarefas. O curso consiste de 4 aulas que ensina desde a parte da eletrônica envolvida no projeto até a programação.
