@@ -19,9 +19,15 @@ Nos dias 06, 13, 20 e 27 de março de 2018, João Adriano Freitas ensinará hobi
 
 ### Contrução de Braço Robótico no SESC Carmo
 
-Nos dias 12, 14, 19 e 21 de março de 2018, João Adriano Freitas ensiará os participantes a montarem braços robóticos que serão controlados por um joystick e programados para automação de tarefas. O curso consiste de 4 aulas que ensina desde a parte da eletrônica envolvida no projeto até a programação.
+Nos dias 12, 14, 19 e 21 de março de 2018, João Adriano Freitas ensiará os participantes a montar braços robóticos que serão controlados por um joystick e programados para automação de tarefas. O curso consiste de 4 aulas que ensina desde a parte da eletrônica envolvida no projeto até a programação.
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/147989_CONTRUCAO+DE+BRACO+ROBOTICO)
+
+### Desenho Robótico Com Arduino no Garagem Fab Lab
+
+No dia 21 de março de 2018, Monica Rizzolli e João Adriano Freitas ensinarão os particpiantes a montar robôs desenhistas que serão programados para desenhar. A oficina inicia com uma breve introdução a técnicas de desenvolvimento de projetos quando os educadores compartilham suas experiências. Em seguida, inicia-se a explicação da parte mecânica e eletrônica do projeto e por fim os participantes têm a oportunidade de programar seus próprios desenhos explorando sua criatividade.
+
+Mais informações na [página do Garagem Fab Lab](http://www.garagemfablab.com.br/portfolio/desenho-robotico-com-arduino-21-mar/)
 
 ## Atividades recentes
 
@@ -42,11 +48,11 @@ Dias 25 e 26 de janeiro de 2018 - Estúdio Hacker Day e Robô Desenhista
 
 Dias 20 e 21 de janeiro de 2018 - Customizando #ROBOPISCA, Arte Robô escovinha, Lousa Mágica, Automação de uma casa e Robô Desenhista
 
-### Estúdio Hacker Luz e Sombra (animação o quadro a quadro)
+### Estúdio Hacker Luz e Sombra (animação quadro a quadro)
 
 Dias 16, 17, 22 e 23 de janeiro de 2018 no SESC São Caetano
 
-### Estúdio Hacker Luz e Sombra (animação o quadro a quadro)
+### Estúdio Hacker Luz e Sombra (animação quadro a quadro)
 
 Dia 6 de janeiro de 2018 na Biblioteca Villa Lobos
 
