@@ -42,7 +42,7 @@ Mais informações na [página do Garagem Fab Lab](http://www.garagemfablab.com.
 
 ----
 
-### Estúdio Hacker na Campus Party 2018
+### Campus Party 2018
 
 Entre os dias 31/01 e 03/02 apresentamos, na área dedicada à Aprendizagem Criativa do espaço Educação do Futuro, palestras rápidas, oficinas e mostras interativas.
 Oficina de solda com #RoboPisca, BBC micro:bit na educação, sequência pedagógica desplugada, BBC micro:bit e o mundo físico, mostra das produções que resultaram de algumas das nossas oficinas... Em resumo, uma programação intensa, cheia de momentos mão-na-massa e de compartilhamento de conhecimento, tudo num misto de cultura hacker, maker, embasados nas metodologias e preocupações pedagógicas da Aprendizagem Criativa.
@@ -53,11 +53,15 @@ Mais informações na [agenda da Campus Party](http://brasil.campus-party.org/ed
 
 Dias 25 e 26 de janeiro de 2018 - Estúdio Hacker Day e Robô Desenhista
 
+Veja também [artigo a respeito da atividade](http://imparcial.com.br/noticias/oficina-ensina-montagem-de-robo-desenhista-no-sesc-thermas,17960).
+
 ### Estúdio Hacker no SESC Birigui
 
 Dias 20 e 21 de janeiro de 2018 - Customizando #ROBOPISCA, Arte Robô escovinha, Lousa Mágica, Automação de uma casa e Robô Desenhista
 
-### Estúdio Hacker Luz e Sombra (animação quadro a quadro)
+Veja também [chamada para a atividade no SESC Presidente Prudente](https://www.facebook.com/sescthermas/videos/1920444184693746/) durante a oficina de Robô Desenhista.
+
+### Animação quadro a quadro no SESC São Caetano
 
 Dias 16, 17, 22 e 23 de janeiro de 2018 no SESC São Caetano
 
@@ -66,6 +70,8 @@ Dias 16, 17, 22 e 23 de janeiro de 2018 no SESC São Caetano
 Dando sequência a programação de férias, dia 13 de janeiro de 2018 estivemos na Biblioteca de São Paulo com a oficina Estúdio Hacker Day Luz e Sombra: Animação quadro a quadro. Alexandre Villares e Monica Rizzolli ensinaram aos participantes conceitos de planejamento, roteirização, iluminação, fotografia e vídeo, e a produzirem suas próprias animações.
 
 Mais informações na [página da Biblioteca de São Paulo](https://bsp.org.br/2017/12/13/ferias-na-biblioteca-maker/)
+
+Veja também [artigo a respeito da atividade](https://bsp.org.br/2018/01/16/criancas-surpreendem-ao-fazer-animacao-quadro-a-quadro/) e [animação criada por um dos participantes](https://www.facebook.com/BSPbiblioteca/videos/1819965034701943/)
 
 ### Animação quadro a quadro na Biblioteca Villa Lobos
 
