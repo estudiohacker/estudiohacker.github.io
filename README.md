@@ -44,8 +44,22 @@ Mais informações na [página do Garagem Fab Lab](http://www.garagemfablab.com.
 
 ### Campus Party 2018
 
-Entre os dias 31/01 e 03/02 apresentamos, na área dedicada à Aprendizagem Criativa do espaço Educação do Futuro, palestras rápidas, oficinas e mostras interativas.
-Oficina de solda com #RoboPisca, BBC micro:bit na educação, sequência pedagógica desplugada, BBC micro:bit e o mundo físico, mostra das produções que resultaram de algumas das nossas oficinas... Em resumo, uma programação intensa, cheia de momentos mão-na-massa e de compartilhamento de conhecimento, tudo num misto de cultura hacker, maker, embasados nas metodologias e preocupações pedagógicas da Aprendizagem Criativa.
+Entre os dias 31/01 e 03/02, Allan Moreira, João Adriano Freitas e Maurício Mudrik apresentaram palestras rápidas, oficinas e mostras interativas na área dedicada à Aprendizagem Criativa no espaço Educação do Futuro. 
+
+Oficinas:
+* Primeira Solda com #RoboPisca;
+* Programação com #RoboPisca;
+* Computação Criativa com o BBC micro:bit.
+
+Mostra interativa:
+* BBC micro:bit e o mundo físico;
+* Sequência pedagógica desplugada.
+
+Palestras rápidas:
+* Uso do BBC micro:bit na educação;
+* Apresentação do grupo de trabalho de ambientes não-formais da Rede de Aprendizagem Criativa.
+
+Foi uma programação intensa, cheia de momentos mão-na-massa e de compartilhamento de conhecimento, tudo num misto de cultura hacker, maker, embasados nas metodologias e preocupações pedagógicas da Aprendizagem Criativa.
 
 Mais informações na [agenda da Campus Party](http://brasil.campus-party.org/educacao-do-futuro/)
 
