@@ -63,7 +63,7 @@ Foi uma programação intensa, cheia de momentos mão-na-massa e de compartilham
 
 Mais informações na [agenda da Campus Party](http://brasil.campus-party.org/educacao-do-futuro/)
 
-### Estúdio Hacker no SESC Presidente Prudente
+### Estúdio Hacker Day e Robô Desenhista no SESC Presidente Prudente
 
 Nos dias 25 e 26 de janeiro de 2018, João Adriano Freitas e Maurício Mudrik estiveram no SESC Presidente Prudente com as oficinas Robô Desenhista e Estúdio Hacker Day. Os participantes aprenderam conceitos básicos de eletrônica, deram seus primeiros passos na programação de microcontroladores e puderam vivenciar algumas de nossas produções como a lousa mágica, #ROBOPISCA, braço robótico, Pilãobo, automação de uma horta etc. Além disso, também tivemos uma oficina de Robô Desenhista na qual os participantes aprenderam a montar e programar uma máquina de desenhar.
 
@@ -71,7 +71,7 @@ Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/143848_E
 
 Veja também um [artigo a respeito das atividades](http://imparcial.com.br/noticias/oficina-ensina-montagem-de-robo-desenhista-no-sesc-thermas,17960).
 
-### Estúdio Hacker no SESC Birigui
+### Encontros mão na massa e Robô Desenhista no SESC Birigui
 
 Nos dias 20 e 21 de janeiro de 2018, João Adriano Freitas e Monica Rizzolli estiveram no SESC Birigui com as oficinas Encontros mão na massa e Robô Desenhista. Os participantes aprenderam a customizar um #ROBOPISCA, fazer um robô artista, programar uma lousa mágica e também fizeram a automação de uma casa. Além disso, também tivemos uma oficina de Robô Desenhista na qual os participantes aprenderam a montar e programar uma máquina de desenhar.
 
@@ -97,25 +97,25 @@ Mais informações na [página da Biblioteca Villa-Lobos](https://bvl.org.br/eve
 
 ### Estúdio Hacker Day no SESC Itaquera
 
-Dia 15 de novembro no SESC Itaquera de 2017 entre às 12:00 e às 17:00 foram apresentadas algumas das produções realizadas em nossas oficinas, vivências, cursos e intervenções artísticas, entre elas a automação residencial de uma casinha de bonecas, a lousa mágica e o #ROBOPISCA. As atividades tem como objetivo brincar com os conceitos de programação, eletrônica e artes. Além disso, teremos um espaço aberto para troca de ideias e experiências onde podemos discutir alternativas e sugerir soluções técnicas para os projetos trazidos pelos participantes.
+No dia 15 de novembro de 2017, Alexandre Villares, Allan Moreira, João Adriano Freitas, Maurício Mudrik e Monica Rizzolli apresentaram no SESC Itaquera algumas das produções realizadas nas oficinas, vivências, cursos e intervenções artísticas do Estúdio Hacker, entre elas a automação residencial de uma casinha de bonecas, a lousa mágica e o #ROBOPISCA. As atividades tiveram como objetivo brincar com os conceitos de programação, eletrônica e artes. Além disso, tivemos um espaço aberto para troca de ideias e experiências onde discutivmos alternativas e sugerimos soluções técnicas para os projetos trazidos pelos participantes.
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/137278_ESTUDIO+HACKER)
 
 ### Roadsec 2017
 
-No dia 11 de novembro, estivemos no Roadsec apresentando algumas atividades relacionadas a programação, eletrônica e artes. Além disso, tivemos um espaço aberto para troca de ideias e experiências onde podemos discutir alternativas e sugerir soluções técnicas para os projetos trazidos pelos participantes.
+No dia 11 de novembro de 2017, Alexandre Villares, João Adriano e Monica Rizzolli estiveram no Roadsec apresentando algumas atividades relacionadas a programação, eletrônica e artes. Além disso, tivemos um espaço aberto para troca de ideias e experiências onde discutivmos alternativas e sugerimos soluções técnicas para os projetos trazidos pelos participantes.
 
 Mais informações na [página do Roadsec](https://roadsec.com.br/saopaulo2017/)
 
-### Curso de Horta Inteligente no SESC Santo André
+### Horta Inteligente no SESC Santo André
 
-Nos sábados à tarde do mês de outubro e novembro de 2017, fizemos uma introdução aos conceitos de eletrônica digital em um projeto de monitoramento e irrigação automática de uma pequena horta. Os participantes puderam por a mão na massa, aprendendo a utilizar sensores e atuadores, com atividades lúdicas e multidisciplinares norteadas pela cultural maker.
+Nos sábados à tarde do mês de outubro e novembro de 2017, Allan Moreira e Maurício Mudrik fizeram uma introdução aos conceitos de eletrônica digital em um projeto de monitoramento e irrigação automática de uma pequena horta. Os participantes puderam por a mão na massa, aprendendo a utilizar sensores e atuadores, com atividades lúdicas e multidisciplinares norteadas pela cultural maker.
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/131050_HORTA+INTELIGENTE)
 
 ### SP MakerWeek 2017
 
-Como parte do SP MakerWeek, estivemos dia 30 de setembro durante o dia todo apresentando algumas produções (Cubo de LEDs, Casinha automatizada, Pilãobo, entre outros, também apresentadas na inauguração do SESC 24 de maio e Estúdio Hacker Day), e, das 13hs às 15hs, fizemos a famosa oficina #RoboPisca.
+Como parte do SP MakerWeek, Alexandre Villares, Allan Moreira, João Adriano Freitas, Maurício Mudrik e Monica Rizzolli estiveram dia 30 de setembro durante o dia todo apresentando algumas produções como o Cubo de LEDs, Casinha automatizada, Pilãobo, Braço Robótico etc além da oficina Primeira Solda com #RoboPisca.
 
 Os visitantes puderam conhecer nossa mistura multidisciplinar de artes, pedagogia e cultura hacker!
 
