@@ -50,7 +50,7 @@ Mais informaçoes na [página do Garoa Hacker Clube](https://garoa.net.br/wiki/T
 
 ### Campus Party 2018
 
-Entre os dias 31/01 e 03/02, Allan Moreira, João Adriano Freitas e Maurício Mudrik apresentaram palestras rápidas, oficinas e mostras interativas na área dedicada à Aprendizagem Criativa no espaço Educação do Futuro. 
+Entre os dias 31 de janeiro e 3 de fevereiro, Allan Moreira, João Adriano Freitas e Maurício Mudrik apresentaram palestras rápidas, oficinas e mostras interativas na área dedicada à Aprendizagem Criativa no espaço Educação do Futuro. 
 
 Oficinas:
 * Primeira Solda com #RoboPisca;
@@ -90,6 +90,14 @@ Veja [chamada para a atividade no SESC Presidente Prudente](https://www.facebook
 ### Animação quadro a quadro no SESC São Caetano
 
 Estivemos na programação de férias de janeiro de 2018 do SESC São Caetano com a oficina Estúdio Hacker Day Luz e Sombra: Animação quadro a quadro. Nos dias 16 e 17 com Maurício Mudrik e Monica Rizzolli e nos dias 22 e 23 com Alexandre Villares e João Adriano Freitas, os participantes aprenderam conceitos de planejamento, roteirização, iluminação, fotografia e vídeo, e a produzirem suas próprias animações.
+
+### Hackathon Desafio Educação 4.0
+
+Entre os dias 15 e 17 de janeiro de 2018, João Adriano Freitas participou do hackathon que teve como ponto principal o uso do BBC micro:bit na educação. Sua participação iniciou-se com a realização de uma oficina de Introdução ao BBC micro:bit. Durante todo o evento, ficou como suporte aos participantes. No segundo dia fez uma apresentação relâmpago sobre a importância das atividades de ciência da computação desplugadas, como uma breve demonstração com a ajuda dos participantes. Por fim, participou como jurado na votação dos projetos.
+
+Mais informações na [página do evento](https://doity.com.br/educacao40).
+
+Veja também um [artigo a respeito do hackathon](https://www.positivoteceduc.com.br/blog-inovacao-e-tendencias/confira-o-que-rolou-no-hackathon-manaus/) e um [vídeo resumo do evento](https://www.facebook.com/certiamazonia/videos/1432292813549716/).
 
 ### Animação quadro a quadro na Biblioteca São Paulo
 
