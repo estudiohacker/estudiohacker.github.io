@@ -131,7 +131,7 @@ Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/130859_P
 
 ### Inauguração do SESC 24 de maio
 
-Dias 19 e 20 de outubro de 2017 (sábado e domingo) durante a inauguraço da unidade 24 de maio do SESC, no Espaço de Tecnologias e Artes.
+Dias 19 e 20 de outubro de 2017, durante a inauguraço da unidade 24 de maio do SESC, no Espaço de Tecnologias e Artes.
 
 Intervenção para disseminar as práticas da cultura hacker. Foram apresentados nesta vivência os projetos Automação de uma casa, #RobosPisca, Eletrônica Lúdica, Horta Inteligente e Arte Robótica. Livre. Com Alexandre Villares, Allan Moreira, João Adriano Freitas, Maurício Mudrik e Monica Rizzolli.
 
