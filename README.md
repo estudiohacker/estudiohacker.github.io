@@ -125,7 +125,7 @@ Mais informações na [página do SP MAKERWEEK](https://www.sympla.com.br/sp-mak
 
 Dia 7 de setembro de 2017, das 09:30 às 17:30 no Espaço de Tecnologias e Artes.
 
-Hack Day é um esforço coletivo no qual pessoas se reúnem por oito horas para debater ideias e desenvolver projetos com os temas: robótica, internet das coisas, arte e programação. Os participantes formam grupos conforme seus interesses e desenvolvem um mini projeto relacionado ao tema escolhido, tudo com a orientação de especialistas nas áreas. O evento começa com uma explicação da dinâmica e uma apresentação dos temas. Ao fim, os participantes apresentam suas criações e compartilham o conhecimento adquirido durante o processo.
+O Estúdio Hacker Day é um esforço coletivo no qual pessoas se reúnem por oito horas para debater ideias e desenvolver projetos com os temas: robótica, internet das coisas, arte e programação. Os participantes formam grupos conforme seus interesses e desenvolvem um mini projeto relacionado ao tema escolhido, tudo com a orientação de especialistas nas áreas. O evento começa com uma explicação da dinâmica e uma apresentação dos temas. Ao fim, os participantes apresentam suas criações e compartilham o conhecimento adquirido durante o processo. Com Alexandre Villares, Allan Moreira, João Adriano Freitas, Maurício Mudrik e Monica Rizzolli
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/130859_PROJETO+HACK+DAY)
 
@@ -133,7 +133,7 @@ Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/130859_P
 
 Dias 19 e 20 de outubro de 2017 (sábado e domingo) durante a inauguraço da unidade 24 de maio do SESC, no Espaço de Tecnologias e Artes.
 
-Intervenção para disseminar as práticas da cultura hacker. Foram apresentados nesta vivência os projetos Automação de uma casa, #RobosPisca, Eletrônica Lúdica, Horta Inteligente e Arte Robótica. Livre. Com Maurício S. Mudrik, Alexandre Villares, Monica Rizzolli, Allan Moreira, João Adriano Freitas.
+Intervenção para disseminar as práticas da cultura hacker. Foram apresentados nesta vivência os projetos Automação de uma casa, #RobosPisca, Eletrônica Lúdica, Horta Inteligente e Arte Robótica. Livre. Com Alexandre Villares, Allan Moreira, João Adriano Freitas, Maurício Mudrik e Monica Rizzolli.
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/130647_ESTUDIO+HACKER)
 
@@ -157,4 +157,4 @@ Mais informações na [página do SESC](http://www.saocaetanodigital.com.br/feri
 
 ### Laboratório de (des)computadores, jogos e desafios no SESC Santo Amaro
 
-Todas as sextas do mês de junho, desmistificando diversos conceitos de ciência da computação através de atividades cinestésicas sem a utilização de computadores. Por meio de gincanas e jogos divertidos, abordamos temas como números binários, representação de imagem, detecção de erros, algoritmos de busca, redes de ordenação, roteamento e becos sem saída, simulação de um computador e criptografia com chave pública. Ótima abordagem para estimular novos conhecimentos, pensamento computacional fora do laboratório, longe do computador e para todas as idades.
+Todas as sextas do mês de junho, desmistificando diversos conceitos de ciência da computação através de atividades cinestésicas sem a utilização de computadores. Por meio de gincanas e jogos divertidos, abordamos temas como números binários, representação de imagem, detecção de erros, algoritmos de busca, redes de ordenação, roteamento e becos sem saída, simulação de um computador e criptografia com chave pública. Ótima abordagem para estimular novos conhecimentos, pensamento computacional fora do laboratório, longe do computador e para todas as idades. Com Alexandre Villares, Allan Moreira, João Adriano Freitas, Maurício Mudrik e Monica Rizzolli
