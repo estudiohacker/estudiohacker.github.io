@@ -22,21 +22,21 @@ Nos dias 06, 13, 20 e 27 de março de 2018, João Adriano Freitas ensinará hobi
 Nos dias 10, 17, 24 e 31 de março de 2018, teremos as oficinas Customizando um #ROBOPISCA com João Adriano Freitas e Maurício Mudrik, Lousa Mágica com Alexandre Villares e João Adriano Freitas, Arte Robô Escovinha com Alexandre Villares e Monica Rizzolli e Automação de uma casa com Maurício Mudrik e Monica Rizzolli.
 
 Mais informações na página do SESC:
-* [Customizando um #ROBOPISCA](https://www.sescsp.org.br/programacao/149062_CUSTOMIZANDO+UM+ROBOPISCA)
-* [Arte Robô Escovinha](https://www.sescsp.org.br/programacao/149065_ARTE+ROBO+ESCOVINHA)
-* [Automação de uma casa](https://www.sescsp.org.br/programacao/149068_AUTOMACAO+DE+UMA+CASA)
+* [Customizando um #ROBOPISCA](https://www.sescsp.org.br/programacao/149062_CUSTOMIZANDO+UM+ROBOPISCA);
+* [Arte Robô Escovinha](https://www.sescsp.org.br/programacao/149065_ARTE+ROBO+ESCOVINHA);
+* [Automação de uma casa](https://www.sescsp.org.br/programacao/149068_AUTOMACAO+DE+UMA+CASA).
 
 ### Contrução de Braço Robótico no SESC Carmo
 
 Nos dias 12, 14, 19 e 21 de março de 2018, João Adriano Freitas ensiará os participantes a montar braços robóticos que serão controlados por um joystick e programados para automação de tarefas. O curso consiste de 4 aulas que ensina desde a parte da eletrônica envolvida no projeto até a programação.
 
-Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/147989_CONTRUCAO+DE+BRACO+ROBOTICO)
+Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/147989_CONTRUCAO+DE+BRACO+ROBOTICO).
 
 ### Desenho Robótico Com Arduino no Garagem Fab Lab
 
 No dia 21 de março de 2018, Monica Rizzolli e João Adriano Freitas ensinarão os particpiantes a montar robôs desenhistas que serão programados para desenhar. A oficina inicia com uma breve introdução a técnicas de desenvolvimento de projetos quando os educadores compartilham suas experiências. Em seguida, temos uma explicação sobre a parte mecânica e eletrônica do projeto e por fim, os participantes têm a oportunidade de programar seus próprios desenhos explorando sua criatividade.
 
-Mais informações na [página do Garagem Fab Lab](http://www.garagemfablab.com.br/portfolio/desenho-robotico-com-arduino-21-mar/)
+Mais informações na [página do Garagem Fab Lab](http://www.garagemfablab.com.br/portfolio/desenho-robotico-com-arduino-21-mar/).
 
 ## Atividades recentes
 
@@ -46,7 +46,7 @@ Mais informações na [página do Garagem Fab Lab](http://www.garagemfablab.com.
 
 No dia 19 de fevereiro de 2018, no encontro de Tecnologia e Educação que acontece mensalmente no Garoa Hacker Clube, João Adriano Freitas fez uma breve introdução ao BBC micro:bit contando um pouco da sua história, recursos do hardware e ambientes de desenvolvimento. Em seguida, tivemos uma oficina aberta de experimentação com os micro:bits.
 
-Mais informaçoes na [página do Garoa Hacker Clube](https://garoa.net.br/wiki/Tecnologia_e_Educa%C3%A7%C3%A3o#19.2F02.2F2018)
+Mais informaçoes na [página do Garoa Hacker Clube](https://garoa.net.br/wiki/Tecnologia_e_Educa%C3%A7%C3%A3o#19.2F02.2F2018).
 
 ### Campus Party 2018
 
@@ -67,7 +67,7 @@ Palestras rápidas:
 
 Foi uma programação intensa, cheia de momentos mão-na-massa e de compartilhamento de conhecimento, tudo num misto de cultura hacker, maker, embasados nas metodologias e preocupações pedagógicas da Aprendizagem Criativa.
 
-Mais informações na [agenda da Campus Party](http://brasil.campus-party.org/educacao-do-futuro/)
+Mais informações na [agenda da Campus Party](http://brasil.campus-party.org/educacao-do-futuro/).
 
 Veja também um [artigo a respeito das atividades com micro:bit](https://www.positivoteceduc.com.br/blog-giro-te/campus-party-tecnologia-e-educacao/).
 
@@ -76,8 +76,8 @@ Veja também um [artigo a respeito das atividades com micro:bit](https://www.pos
 Nos dias 25 e 26 de janeiro de 2018, João Adriano Freitas e Maurício Mudrik estiveram no SESC Presidente Prudente com as oficinas Robô Desenhista e Estúdio Hacker Day. Os participantes aprenderam conceitos básicos de eletrônica, deram seus primeiros passos na programação de microcontroladores e puderam vivenciar algumas de nossas produções como a lousa mágica, #ROBOPISCA, braço robótico, Pilãobo, automação de uma horta etc. Além disso, também tivemos uma oficina de Robô Desenhista na qual os participantes aprenderam a montar e programar uma máquina de desenhar.
 
 Mais informações na página do SESC:
-* [Estúdio Hacker Day](https://www.sescsp.org.br/aulas/143848_ESTUDIO+HACKER+DAY)
-* [Robô Desenhista](https://www.sescsp.org.br/aulas/143852_ROBO+DESENHISTA)
+* [Estúdio Hacker Day](https://www.sescsp.org.br/aulas/143848_ESTUDIO+HACKER+DAY);
+* [Robô Desenhista](https://www.sescsp.org.br/aulas/143852_ROBO+DESENHISTA).
 
 Veja também um [artigo a respeito das atividades](http://imparcial.com.br/noticias/oficina-ensina-montagem-de-robo-desenhista-no-sesc-thermas,17960).
 
@@ -95,33 +95,42 @@ Estivemos na programação de férias de janeiro de 2018 do SESC São Caetano co
 
 Dando sequência a programação de férias, dia 13 de janeiro de 2018 estivemos na Biblioteca de São Paulo com a oficina Estúdio Hacker Day Luz e Sombra: Animação quadro a quadro. Alexandre Villares e Monica Rizzolli ensinaram aos participantes conceitos de planejamento, roteirização, iluminação, fotografia e vídeo, e a produzirem suas próprias animações.
 
-Mais informações na [página da Biblioteca de São Paulo](https://bsp.org.br/2017/12/13/ferias-na-biblioteca-maker/)
+Mais informações na [página da Biblioteca de São Paulo](https://bsp.org.br/2017/12/13/ferias-na-biblioteca-maker/).
 
-Veja também [artigo a respeito da atividade](https://bsp.org.br/2018/01/16/criancas-surpreendem-ao-fazer-animacao-quadro-a-quadro/) e [animação criada por um dos participantes](https://www.facebook.com/BSPbiblioteca/videos/1819965034701943/)
+Veja também [artigo a respeito da atividade](https://bsp.org.br/2018/01/16/criancas-surpreendem-ao-fazer-animacao-quadro-a-quadro/) e [animação criada por um dos participantes](https://www.facebook.com/BSPbiblioteca/videos/1819965034701943/).
 
 ### Animação quadro a quadro na Biblioteca Villa Lobos
 
 No dia 6 de janeiro de 2018, estivemos na programação de férias da Biblioteca Parque Villa-Lobos com a oficina Estúdio Hacker Day Luz e Sombra: Animação quadro a quadro. João Adriano Freitas e Monica Rizzolli ensinaram aos participantes conceitos de planejamento, roteirização, iluminação, fotografia e vídeo, e a produzirem suas próprias animações.
 
-Mais informações na [página da Biblioteca Villa-Lobos](https://bvl.org.br/evento/animacao-quadro-a-quadro/)
+Mais informações na [página da Biblioteca Villa-Lobos](https://bvl.org.br/evento/animacao-quadro-a-quadro/).
 
 ### Estúdio Hacker Day no SESC Itaquera
 
 No dia 15 de novembro de 2017, Alexandre Villares, Allan Moreira, João Adriano Freitas, Maurício Mudrik e Monica Rizzolli apresentaram no SESC Itaquera algumas das produções realizadas nas oficinas, vivências, cursos e intervenções artísticas do Estúdio Hacker, entre elas a automação residencial de uma casinha de bonecas, a lousa mágica e o #ROBOPISCA. As atividades tiveram como objetivo brincar com os conceitos de programação, eletrônica e artes. Além disso, tivemos um espaço aberto para troca de ideias e experiências onde discutivmos alternativas e sugerimos soluções técnicas para os projetos trazidos pelos participantes.
 
-Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/137278_ESTUDIO+HACKER)
+Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/137278_ESTUDIO+HACKER).
 
 ### Roadsec 2017
 
 No dia 11 de novembro de 2017, Alexandre Villares, João Adriano e Monica Rizzolli estiveram no Roadsec apresentando algumas atividades relacionadas a programação, eletrônica e artes. Além disso, tivemos um espaço aberto para troca de ideias e experiências onde discutivmos alternativas e sugerimos soluções técnicas para os projetos trazidos pelos participantes.
 
-Mais informações na [página do Roadsec](https://roadsec.com.br/saopaulo2017/)
+Mais informações na [página do Roadsec](https://roadsec.com.br/saopaulo2017/).
 
 ### Horta Inteligente no SESC Santo André
 
 Nos sábados à tarde do mês de outubro e novembro de 2017, Allan Moreira e Maurício Mudrik fizeram uma introdução aos conceitos de eletrônica digital em um projeto de monitoramento e irrigação automática de uma pequena horta. Os participantes puderam por a mão na massa, aprendendo a utilizar sensores e atuadores, com atividades lúdicas e multidisciplinares norteadas pela cultural maker.
 
-Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/131050_HORTA+INTELIGENTE)
+Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/131050_HORTA+INTELIGENTE).
+
+### Conferência Scratch Brasil 2017
+
+Entre os dias 5 e 7 de outubro de 2017, Allan Moreira, João Adriano Freitas e Maurício Mudrik apresentaram os projetos a seguir na mostra interativa:
+* #RoboPisca no Scratch;
+* Manhã de Robobagens;
+* Computação física com Scratch e BBC micro:bit
+
+Mais informações na [página da conferência](https://docs.google.com/document/d/e/2PACX-1vTQwDXlupW8OVtXCuGOgqkb3Vu2f8LRxLFIA1l1BCmEKqlLNXgHTT8vuodV8m0x0K0FQsdHU467PHLk/pub).
 
 ### SP MakerWeek 2017
 
@@ -129,7 +138,7 @@ Como parte do SP MakerWeek, Alexandre Villares, Allan Moreira, João Adriano Fre
 
 Os visitantes puderam conhecer nossa mistura multidisciplinar de artes, pedagogia e cultura hacker!
 
-Mais informações na [página do SP MAKERWEEK](https://www.sympla.com.br/sp-makerweek__174304)
+Mais informações na [página do SP MAKERWEEK](https://www.sympla.com.br/sp-makerweek__174304).
 
 ### Estúdio Hacker Day no SESC 24 de maio
 
@@ -137,7 +146,7 @@ Dia 7 de setembro de 2017, das 09:30 às 17:30 no Espaço de Tecnologias e Artes
 
 O Estúdio Hacker Day é um esforço coletivo no qual pessoas se reúnem por oito horas para debater ideias e desenvolver projetos com os temas: robótica, internet das coisas, arte e programação. Os participantes formam grupos conforme seus interesses e desenvolvem um mini projeto relacionado ao tema escolhido, tudo com a orientação de especialistas nas áreas. O evento começa com uma explicação da dinâmica e uma apresentação dos temas. Ao fim, os participantes apresentam suas criações e compartilham o conhecimento adquirido durante o processo. Com Alexandre Villares, Allan Moreira, João Adriano Freitas, Maurício Mudrik e Monica Rizzolli
 
-Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/130859_PROJETO+HACK+DAY)
+Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/130859_PROJETO+HACK+DAY).
 
 ### Inauguração do SESC 24 de maio
 
@@ -145,7 +154,7 @@ Dias 19 e 20 de outubro de 2017, durante a inauguraço da unidade 24 de maio do 
 
 Intervenção para disseminar as práticas da cultura hacker. Foram apresentados nesta vivência os projetos Automação de uma casa, #RobosPisca, Eletrônica Lúdica, Horta Inteligente e Arte Robótica. Livre. Com Alexandre Villares, Allan Moreira, João Adriano Freitas, Maurício Mudrik e Monica Rizzolli.
 
-Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/130647_ESTUDIO+HACKER)
+Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/130647_ESTUDIO+HACKER).
 
 Veja também um [artigo a respeito da inauguração](http://flertai.com.br/2017/08/sesc-24-de-maio-abre-suas-portas-dia-19-de-agosto/).
 
@@ -153,19 +162,19 @@ Veja também um [artigo a respeito da inauguração](http://flertai.com.br/2017/
 
 Nos dias 10, 12, 17 e 19 de julho, os participantes tiveram contato com os primeiros conceitos de eletrônica digital utilizando hardware livre. Após uma introdução ao tema e a apresentação da proposta do projeto, utilizamos sensores e atuadores para fazermos o monitoramento e a irrigação automática de uma pequena horta. Os participantes colocaram a mão na massa, sem faz de conta, com atividades lúdicas e multidisciplinares norteados pela cultura maker.
 
-Mais informações na [página do SESC](http://www.saocaetanodigital.com.br/ferias-para-criancas-sesc-sao-caetano-realiza-projeto-especial/)
+Mais informações na [página do SESC](http://www.saocaetanodigital.com.br/ferias-para-criancas-sesc-sao-caetano-realiza-projeto-especial/).
 
 ### Customizando um Robô-Pisca no SESC São Caetano
 
 Nos dias 12 e 19 de julho, brincamos com alguns conceitos da eletrônica através da customização de RobôsPisca. Usando materiais simples, facilmente encontráveis em papelarias, os participantes decoraram os seus kits e experimentaramdivertidas programações feitas em controladores Arduino e similares. Na atividade, também experimentaram a solda de componentes, auxiliados pelos facilitadores presentes. 
 
-Mais informações na [página do SESC](http://www.saocaetanodigital.com.br/ferias-para-criancas-sesc-sao-caetano-realiza-projeto-especial/)
+Mais informações na [página do SESC](http://www.saocaetanodigital.com.br/ferias-para-criancas-sesc-sao-caetano-realiza-projeto-especial/).
 
 ### Arte Robótica no SESC São Caetano
 
 Nos dias 10 e 17 de julho, brincamos com alguns conceitos de ciência através da criação de robôs-desenhistas. Usando materiais simples, reciclados ou facilmente encontráveis em papelarias, de materiais de eletrônica ou até mesmo de desmanches de computadores, os participantes tiveram a oportunidade de criar junto aos artistas uma pequena variedade de robôs autônomos.
 
-Mais informações na [página do SESC](http://www.saocaetanodigital.com.br/ferias-para-criancas-sesc-sao-caetano-realiza-projeto-especial/)
+Mais informações na [página do SESC](http://www.saocaetanodigital.com.br/ferias-para-criancas-sesc-sao-caetano-realiza-projeto-especial/).
 
 ### Laboratório de (des)computadores, jogos e desafios no SESC Santo Amaro
 
