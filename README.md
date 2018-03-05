@@ -26,7 +26,7 @@ Mais informações na página do SESC:
 * [Arte Robô Escovinha](https://www.sescsp.org.br/programacao/149065_ARTE+ROBO+ESCOVINHA);
 * [Automação de uma casa](https://www.sescsp.org.br/programacao/149068_AUTOMACAO+DE+UMA+CASA).
 
-### Contrução de Braço Robótico no SESC Carmo
+### Construção de Braço Robótico no SESC Carmo
 
 Nos dias 12, 14, 19 e 21 de março de 2018, João Adriano Freitas ensiará os participantes a montar braços robóticos que serão controlados por um joystick e programados para automação de tarefas. O curso consiste de 4 aulas que ensina desde a parte da eletrônica envolvida no projeto até a programação.
 
