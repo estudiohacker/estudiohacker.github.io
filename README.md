@@ -42,6 +42,12 @@ Mais informações na [página do Garagem Fab Lab](http://www.garagemfablab.com.
 
 ----
 
+### BBC micro:bit no Garoa Hacker Clube
+
+No dia 19 de fevereiro de 2018, no encontro de Tecnologia e Educação que acontece mensalmente no Garoa Hacker Clube, João Adriano Freitas fez uma breve introdução ao BBC micro:bit contando um pouco da sua história, recursos do hardware e ambientes de desenvolvimento. Em seguida, tivemos uma oficina aberta de experimentação com os micro:bits.
+
+Mais informaçoes na [página do Garoa Hacker Clube](https://garoa.net.br/wiki/Tecnologia_e_Educa%C3%A7%C3%A3o#19.2F02.2F2018)
+
 ### Campus Party 2018
 
 Entre os dias 31/01 e 03/02, Allan Moreira, João Adriano Freitas e Maurício Mudrik apresentaram palestras rápidas, oficinas e mostras interativas na área dedicada à Aprendizagem Criativa no espaço Educação do Futuro. 
