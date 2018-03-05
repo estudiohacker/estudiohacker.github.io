@@ -69,11 +69,15 @@ Foi uma programação intensa, cheia de momentos mão-na-massa e de compartilham
 
 Mais informações na [agenda da Campus Party](http://brasil.campus-party.org/educacao-do-futuro/)
 
+Veja também um [artigo a respeito das atividades com micro:bit](https://www.positivoteceduc.com.br/blog-giro-te/campus-party-tecnologia-e-educacao/).
+
 ### Estúdio Hacker Day e Robô Desenhista no SESC Presidente Prudente
 
 Nos dias 25 e 26 de janeiro de 2018, João Adriano Freitas e Maurício Mudrik estiveram no SESC Presidente Prudente com as oficinas Robô Desenhista e Estúdio Hacker Day. Os participantes aprenderam conceitos básicos de eletrônica, deram seus primeiros passos na programação de microcontroladores e puderam vivenciar algumas de nossas produções como a lousa mágica, #ROBOPISCA, braço robótico, Pilãobo, automação de uma horta etc. Além disso, também tivemos uma oficina de Robô Desenhista na qual os participantes aprenderam a montar e programar uma máquina de desenhar.
 
-Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/143848_ESTUDIO+HACKER+DAY)
+Mais informações na página do SESC:
+* [Estúdio Hacker Day](https://www.sescsp.org.br/aulas/143848_ESTUDIO+HACKER+DAY)
+* [Robô Desenhista](https://www.sescsp.org.br/aulas/143852_ROBO+DESENHISTA)
 
 Veja também um [artigo a respeito das atividades](http://imparcial.com.br/noticias/oficina-ensina-montagem-de-robo-desenhista-no-sesc-thermas,17960).
 
@@ -142,6 +146,8 @@ Dias 19 e 20 de outubro de 2017, durante a inauguraço da unidade 24 de maio do 
 Intervenção para disseminar as práticas da cultura hacker. Foram apresentados nesta vivência os projetos Automação de uma casa, #RobosPisca, Eletrônica Lúdica, Horta Inteligente e Arte Robótica. Livre. Com Alexandre Villares, Allan Moreira, João Adriano Freitas, Maurício Mudrik e Monica Rizzolli.
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/130647_ESTUDIO+HACKER)
+
+Veja também um [artigo a respeito da inauguração](http://flertai.com.br/2017/08/sesc-24-de-maio-abre-suas-portas-dia-19-de-agosto/).
 
 ### Horta Inteligente no SESC São Caetano
 
