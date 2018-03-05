@@ -24,7 +24,8 @@ Nos dias 10, 17, 24 e 31 de março de 2018, teremos as oficinas Customizando um 
 Mais informações na página do SESC:
 * [Customizando um #ROBOPISCA](https://www.sescsp.org.br/programacao/149062_CUSTOMIZANDO+UM+ROBOPISCA);
 * [Arte Robô Escovinha](https://www.sescsp.org.br/programacao/149065_ARTE+ROBO+ESCOVINHA);
-* [Automação de uma casa](https://www.sescsp.org.br/programacao/149068_AUTOMACAO+DE+UMA+CASA).
+* [Automação de uma casa](https://www.sescsp.org.br/programacao/149068_AUTOMACAO+DE+UMA+CASA);
+* [Lousa Mágica] *breve mais informações*
 
 ### Construção de Braço Robótico no SESC Carmo
 
