@@ -94,7 +94,7 @@ Veja [chamada para a atividade no SESC Presidente Prudente](https://www.facebook
 
 Estivemos na programação de férias de janeiro de 2018 do SESC São Caetano com a oficina Estúdio Hacker Day Luz e Sombra: Animação quadro a quadro. Nos dias 16 e 17 com Maurício Mudrik e Monica Rizzolli e nos dias 22 e 23 com Alexandre Villares e João Adriano Freitas, os participantes aprenderam conceitos de planejamento, roteirização, iluminação, fotografia e vídeo, e a produzirem suas próprias animações.
 
-Mais informações na [Revista Em Cartaz | Janeiro 2018 | SESC](https://issuu.com/sescsp/docs/ec_issuu/76).
+Mais informações na [Revista Em Cartaz SESC / Janeiro 2018](https://issuu.com/sescsp/docs/ec_issuu/76).
 
 ### Hackathon Desafio Educação 4.0
 
