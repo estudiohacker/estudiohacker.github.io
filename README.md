@@ -37,7 +37,7 @@ Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/14
 
 ### Desenho Robótico Com Arduino no Garagem Fab Lab
 
-No dia 21 de março de 2018, Monica Rizzolli e João Adriano Freitas ensinarão os particpiantes a montar robôs desenhistas que serão programados para desenhar. A oficina inicia com uma breve introdução a técnicas de desenvolvimento de projetos quando os educadores compartilham suas experiências. Em seguida, temos uma explicação sobre a parte mecânica e eletrônica do projeto e por fim, os participantes têm a oportunidade de programar seus próprios desenhos explorando sua criatividade.
+No dia 21 de março de 2018, Alexandre Villares e João Adriano Freitas ensinarão os participantes a montar robôs desenhistas que serão programados para desenhar. A oficina inicia com uma breve introdução a técnicas de desenvolvimento de projetos quando os educadores compartilham suas experiências. Em seguida, temos uma explicação sobre a parte mecânica e eletrônica do projeto e por fim, os participantes têm a oportunidade de programar seus próprios desenhos explorando sua criatividade.
 
 Mais informações na [página do Garagem Fab Lab](http://www.garagemfablab.com.br/portfolio/desenho-robotico-com-arduino-21-mar/).
 
