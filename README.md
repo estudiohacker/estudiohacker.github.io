@@ -19,12 +19,14 @@ Entre os dias 6 de abril e 22 de abril, João Adriano Freitas e Monica Rizzolli 
 
 Os participantes da atividade têm a chance de utilizar máquinas analógicas e digitais para fazer desenhos. Com a lousa paramétrica, é possível criar objetos geométricos em duas dimensões, exibidos em tempo real em uma tela. Há ainda dois robôs, um para desenhar com controle remoto e outro que faz desenhos aleatórios, dependendo da posição das canetas acopladas.
 
+Seleção de [desenhos criados com a lousa paramétrica](https://flic.kr/s/aHsmgGEwr6).
+
 Mais informações na [página do SESC](https://circuito.sescsp.org.br/sobre-o-circuito/)
 
 Programação completa:
 * [Itapira - 06 de abril](https://circuito.sescsp.org.br/programacoes/2018/itapira/)
 * [Americana - 07 de abril](https://circuito.sescsp.org.br/programacoes/2018/americana/)
-* [Mogi Mirimm - 08 de abril](https://circuito.sescsp.org.br/programacoes/2018/mogi-mirim/)
+* [Mogi Mirim - 08 de abril](https://circuito.sescsp.org.br/programacoes/2018/mogi-mirim/)
 * [Casa Branca - 13 de abril](https://circuito.sescsp.org.br/programacoes/2018/casa-branca/)
 * [Caconde - 14 de abril](https://circuito.sescsp.org.br/programacoes/2018/caconde/)
 * [São João da Boa Vista - 15 de abril](https://circuito.sescsp.org.br/programacoes/2018/sao-joao-da-boa-vista/)
