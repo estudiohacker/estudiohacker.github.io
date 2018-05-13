@@ -244,4 +244,12 @@ Mais informações na [página do São Caetano Digital](http://www.saocaetanodig
 
 ### Laboratório de (des)computadores, jogos e desafios no SESC Santo Amaro
 
-Todas as sextas do mês de junho, desmistificando diversos conceitos de ciência da computação através de atividades cinestésicas sem a utilização de computadores. Por meio de gincanas e jogos divertidos, abordamos temas como números binários, representação de imagem, detecção de erros, algoritmos de busca, redes de ordenação, roteamento e becos sem saída, simulação de um computador e criptografia com chave pública. Ótima abordagem para estimular novos conhecimentos, pensamento computacional fora do laboratório, longe do computador e para todas as idades. Com Alexandre Villares, Allan Moreira, João Adriano Freitas, Maurício Mudrik e Monica Rizzolli
+Nos dias 7, 14, 21 e 28 de julho de 2017, desmistificando diversos conceitos de ciência da computação através de atividades cinestésicas sem a utilização de computadores. Por meio de gincanas e jogos divertidos, abordamos temas como números binários, representação de imagem, detecção de erros, algoritmos de busca, redes de ordenação, roteamento e becos sem saída, simulação de um computador e criptografia com chave pública. Ótima abordagem para estimular novos conhecimentos, pensamento computacional fora do laboratório, longe do computador e para todas as idades. Com Alexandre Villares, Allan Moreira, João Adriano Freitas, Maurício Mudrik e Monica Rizzolli
+
+### Oficina de #ROBOPISCA na Casa do Pátio Digital
+
+No dia 22 de junho de 2017, Allan Moreira, João Adriano Freitas e Maurício Mudrik apoiaram a Rede Brasileira de Aprendizagem Criativa em um Meet Up na Casa do Pátio do Colégio. Realizamos oficinas de solda e customização do #ROBOPISCA além da demonstração da programação utilizando o Scratch.
+
+Mais informações no [Meet Up da Rede Brasileira de Aprendizagem Criativa](https://www.meetup.com/Encontros-abertos-SME/events/240689270/).
+
+
