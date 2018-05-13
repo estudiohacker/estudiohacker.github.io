@@ -80,6 +80,10 @@ Nos dias 06, 13, 20 e 27 de março de 2018, João Adriano Freitas ensinou hobist
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/148714_PRODUCAO+DE+PLACAS+DE+CIRCUITO+IMPRESSO).
 
+### Formação de Professores na Secretaria Municipal da Educação de São Paulo.
+
+No dia 01 de março de 2018, João Adriano Freitas e Maurício Mudrik apoiaram a Rede Brasileira de Aprendizagem Criativa em uma ação de formação de professores. Foram realizadas atividades de ensino de ciência da computação sem uso de computadores e desafios com Scratch Cards.
+
 ### BBC micro:bit no Garoa Hacker Clube
 
 No dia 19 de fevereiro de 2018, no encontro de Tecnologia e Educação que acontece mensalmente no Garoa Hacker Clube, João Adriano Freitas fez uma breve introdução ao BBC micro:bit contando um pouco da sua história, recursos do hardware e ambientes de desenvolvimento. Em seguida, tivemos uma oficina aberta de experimentação com os micro:bits.
