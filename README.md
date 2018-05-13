@@ -13,11 +13,27 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 
 ----
 
+### Introdução à Robótica no SESC Paulista
+
+Nos dias 8, 15, 22 e 29 de maio e 5, 12, 19 e 26 de junho de 2018, João Adriano Freitas e Monica Rizzolli ensinam os primeiros passos na robótica com atividades que vão desde o ensino de ciência da computação desplugada até a construção de um robô desenhista, passando pela história das máquinas de desenhar.
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/155042_INTRODUCAO+A+ROBOTICA.
+
+### Introdução à Robótica no SESC Taubaté
+
+Nos dias 28 de abril, 5 e 19 de maio e 2 de junho de 2018, realizaremos oficinas de introdução a robótica com uma turma de jovens do SESC Taubaté. Os temas abordados serão: Atividades Desplugadas e Introdução a Programação com Maurício Mudrik e Monica Rizzolli; Arte e Programação e Montagem de um Robô Desenhista com João Adriano Freitas e Monica Rizzolli; Automação Residencial com João Adriano Freitas e Maurício Mudrik.
+
+Mais informações na [Revista Em Cartaz SESC / Maio 2018](https://issuu.com/sescsp/docs/ec_issuu/76).
+
+## Atividades recentes
+
+----
+
 ### Máquinas de Desenhar no Circuito SESC de Artes 2018
 
-Entre os dias 6 de abril e 22 de abril, João Adriano Freitas e Monica Rizzolli participam do Circuito SESC de Artes com o projeto Máquinas de Desenhar.
+Entre os dias 6 de abril e 22 de abril, João Adriano Freitas e Monica Rizzolli participaram do Circuito SESC de Artes com o projeto Máquinas de Desenhar.
 
-Os participantes da atividade têm a chance de utilizar máquinas analógicas e digitais para fazer desenhos. Com a lousa paramétrica, é possível criar objetos geométricos em duas dimensões, exibidos em tempo real em uma tela. Há ainda dois robôs, um para desenhar com controle remoto e outro que faz desenhos aleatórios, dependendo da posição das canetas acopladas.
+Os participantes da atividade tiveram a chance de utilizar máquinas analógicas e digitais para fazer desenhos. Com a lousa paramétrica, foi possível criar objetos geométricos em duas dimensões, exibidos em tempo real em uma tela. Tivemos ainda dois robôs, um para desenhar com controle remoto e outro que faz desenhos aleatórios, dependendo da posição das canetas acopladas.
 
 Seleção de [desenhos criados com a lousa paramétrica](https://flic.kr/s/aHsmgGEwr6).
 
@@ -33,10 +49,6 @@ Programação completa:
 * [Tupã - 20 de abril](https://circuito.sescsp.org.br/programacoes/2018/tupa/)
 * [Osvaldo Cruz - 21 de abril](https://circuito.sescsp.org.br/programacoes/2018/osvaldo-cruz/)
 * [Lucélia - 22 de abril](https://circuito.sescsp.org.br/programacoes/2018/lucelia/)
-
-## Atividades recentes
-
-----
 
 ### Desenho Robótico Com Arduino no Garagem Fab Lab
 
@@ -196,19 +208,19 @@ Veja também um [artigo a respeito da inauguração](http://flertai.com.br/2017/
 
 Nos dias 10, 12, 17 e 19 de julho, os participantes tiveram contato com os primeiros conceitos de eletrônica digital utilizando hardware livre. Após uma introdução ao tema e a apresentação da proposta do projeto, utilizamos sensores e atuadores para fazermos o monitoramento e a irrigação automática de uma pequena horta. Os participantes colocaram a mão na massa, sem faz de conta, com atividades lúdicas e multidisciplinares norteados pela cultura maker.
 
-Mais informações na [página do SESC](http://www.saocaetanodigital.com.br/ferias-para-criancas-sesc-sao-caetano-realiza-projeto-especial/).
+Mais informações na [página do São Caetano Digital](http://www.saocaetanodigital.com.br/ferias-para-criancas-sesc-sao-caetano-realiza-projeto-especial/).
 
 ### Customizando um Robô-Pisca no SESC São Caetano
 
 Nos dias 12 e 19 de julho, brincamos com alguns conceitos da eletrônica através da customização de RobôsPisca. Usando materiais simples, facilmente encontráveis em papelarias, os participantes decoraram os seus kits e experimentaramdivertidas programações feitas em controladores Arduino e similares. Na atividade, também experimentaram a solda de componentes, auxiliados pelos facilitadores presentes. 
 
-Mais informações na [página do SESC](http://www.saocaetanodigital.com.br/ferias-para-criancas-sesc-sao-caetano-realiza-projeto-especial/).
+Mais informações na [página do São Caetano Digital](http://www.saocaetanodigital.com.br/ferias-para-criancas-sesc-sao-caetano-realiza-projeto-especial/).
 
 ### Arte Robótica no SESC São Caetano
 
 Nos dias 10 e 17 de julho, brincamos com alguns conceitos de ciência através da criação de robôs-desenhistas. Usando materiais simples, reciclados ou facilmente encontráveis em papelarias, de materiais de eletrônica ou até mesmo de desmanches de computadores, os participantes tiveram a oportunidade de criar junto aos artistas uma pequena variedade de robôs autônomos.
 
-Mais informações na [página do SESC](http://www.saocaetanodigital.com.br/ferias-para-criancas-sesc-sao-caetano-realiza-projeto-especial/).
+Mais informações na [página do São Caetano Digital](http://www.saocaetanodigital.com.br/ferias-para-criancas-sesc-sao-caetano-realiza-projeto-especial/).
 
 ### Laboratório de (des)computadores, jogos e desafios no SESC Santo Amaro
 
