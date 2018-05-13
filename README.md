@@ -58,6 +58,12 @@ No dia 21 de março de 2018, Alexandre Villares e João Adriano Freitas ensinara
 
 Mais informações na [página do Garagem Fab Lab](http://www.garagemfablab.com.br/portfolio/desenho-robotico-com-arduino-21-mar/).
 
+### Scratch para Educadores no Segundo Festival de Invenção e Criatividade na FEBRACE
+
+Entre os dias 13 e 15 de março de 2018, João Adriano Freitas apoiou a Rede Brasileira de Aprendizagem Criativa em uma ação de livre exploração do Scratch, seguida de uma discussão sobre os princípios da aprendizagem criativa.
+
+Mais informações na [págida do FIC 2018](http://www.ficmaker.org.br/2018/).
+
 ### Construção de Braço Robótico no SESC Carmo
 
 Nos dias 12, 14, 19 e 21 de março de 2018, João Adriano Freitas ensinou os participantes a montar braços robóticos que foram controlados por um joystick e programados para automação de tarefas. O curso de 4 aulas ensinou desde a parte da eletrônica envolvida no projeto até a programação.
