@@ -58,11 +58,19 @@ No dia 21 de março de 2018, Alexandre Villares e João Adriano Freitas ensinara
 
 Mais informações na [página do Garagem Fab Lab](http://www.garagemfablab.com.br/portfolio/desenho-robotico-com-arduino-21-mar/).
 
+### Oficina piloto das Máquinas de Desenhar no SESC Pompéia
+
+No dia 20 de março de 2018, Alexandre Villares e João Adriano Freitas fizeram uma demonstração do projeto máquinas de desenhar que será apresentado durante o Circuito SESC de Artes de 2018.
+
+Os participantes da atividade tiveram a chance de utilizar máquinas analógicas e digitais para fazer desenhos. Com a lousa paramétrica, foi possível criar objetos geométricos em duas dimensões, exibidos em tempo real em uma tela. Tivemos ainda dois robôs, um para desenhar com controle remoto e outro que faz desenhos aleatórios, dependendo da posição das canetas acopladas.
+
+Mais informações na [página do Facebook do SESC Pompéia](https://www.facebook.com/sescpompeia/posts/1865295176848231).
+
 ### Scratch para Educadores no Segundo Festival de Invenção e Criatividade na FEBRACE
 
 Entre os dias 13 e 15 de março de 2018, João Adriano Freitas apoiou a Rede Brasileira de Aprendizagem Criativa em uma ação de livre exploração do Scratch, seguida de uma discussão sobre os princípios da aprendizagem criativa.
 
-Mais informações na [págida do FIC 2018](http://www.ficmaker.org.br/2018/).
+Mais informações na [página do FIC 2018](http://www.ficmaker.org.br/2018/).
 
 ### Construção de Braço Robótico no SESC Carmo
 
