@@ -254,6 +254,6 @@ Mais informação no [Facebook do SESC São Caetano](https://www.facebook.com/se
 
 ### #ROBOPISCA na Casa do Pátio Digital
 
-No dia 22 de junho de 2017, Allan Moreira, João Adriano Freitas e Maurício Mudrik apoiaram a Rede Brasileira de Aprendizagem Criativa em um Meet Up na Casa do Pátio do Colégio. Realizamos oficinas de solda e customização do #ROBOPISCA além da demonstração da programação utilizando o Scratch.
+No dia 22 de junho de 2017, Allan Moreira, João Adriano Freitas e Maurício Mudrik apoiaram a Rede Brasileira de Aprendizagem Criativa em um Meet Up na Casa do Pátio Digital. Realizamos oficinas de solda e customização do #ROBOPISCA além da demonstração da programação utilizando o Scratch.
 
 Mais informações no [Meet Up da Rede Brasileira de Aprendizagem Criativa](https://www.meetup.com/Encontros-abertos-SME/events/240689270/).
