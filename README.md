@@ -17,7 +17,7 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 
 Nos dias 8, 15, 22 e 29 de maio e 5, 12, 19 e 26 de junho de 2018, João Adriano Freitas e Monica Rizzolli ensinam os primeiros passos na robótica com atividades que vão desde o ensino de ciência da computação desplugada até a construção de um robô desenhista, passando pela história das máquinas de desenhar.
 
-Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/155042_INTRODUCAO+A+ROBOTICA.
+Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/155042_INTRODUCAO+A+ROBOTICA).
 
 ### Introdução à Robótica no SESC Taubaté
 
