@@ -58,7 +58,7 @@ No dia 21 de março de 2018, Alexandre Villares e João Adriano Freitas ensinara
 
 Mais informações na [página do Garagem Fab Lab](http://www.garagemfablab.com.br/portfolio/desenho-robotico-com-arduino-21-mar/).
 
-### Oficina piloto das Máquinas de Desenhar no SESC Pompéia
+### Máquinas de Desenhar no SESC Pompéia
 
 No dia 20 de março de 2018, Alexandre Villares e João Adriano Freitas fizeram uma demonstração do projeto máquinas de desenhar que será apresentado durante o Circuito SESC de Artes de 2018.
 
@@ -246,10 +246,14 @@ Mais informações na [página do São Caetano Digital](http://www.saocaetanodig
 
 Nos dias 7, 14, 21 e 28 de julho de 2017, desmistificando diversos conceitos de ciência da computação através de atividades cinestésicas sem a utilização de computadores. Por meio de gincanas e jogos divertidos, abordamos temas como números binários, representação de imagem, detecção de erros, algoritmos de busca, redes de ordenação, roteamento e becos sem saída, simulação de um computador e criptografia com chave pública. Ótima abordagem para estimular novos conhecimentos, pensamento computacional fora do laboratório, longe do computador e para todas as idades. Com Alexandre Villares, Allan Moreira, João Adriano Freitas, Maurício Mudrik e Monica Rizzolli
 
-### Oficina de #ROBOPISCA na Casa do Pátio Digital
+### Eletrônica Lúdica no SESC São Caetano
+
+Realizamos nos dias 1, 8, 15, 22 e 29 de julho de 2017 a vivência eletrônica lúdica para pais e filhos que leva os participantes ao fantástico mundo da eletrônica e da lógica, através de uma intervenção artística com brincadeiras lúdicas e desafios que trazem conceitos básicos de computação, princípios de eletrônica, montagem de circuitos eletrônicos, uso de multímetros, etc, além de interações envolvendo a construção manual de artefatos. Com Alexandre Villares, Maurício Mudrik e Monica Rizzolli.
+
+Mais informação no [Facebook do SESC São Caetano](https://www.facebook.com/sescsaocaetano/photos/a.233916339958080.95570.233770363306011/1808714749144890/?type=3&theater).
+
+### #ROBOPISCA na Casa do Pátio Digital
 
 No dia 22 de junho de 2017, Allan Moreira, João Adriano Freitas e Maurício Mudrik apoiaram a Rede Brasileira de Aprendizagem Criativa em um Meet Up na Casa do Pátio do Colégio. Realizamos oficinas de solda e customização do #ROBOPISCA além da demonstração da programação utilizando o Scratch.
 
 Mais informações no [Meet Up da Rede Brasileira de Aprendizagem Criativa](https://www.meetup.com/Encontros-abertos-SME/events/240689270/).
-
-
