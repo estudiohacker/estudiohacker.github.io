@@ -9,27 +9,23 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 ### Contato
 [envie uma mensagem](https://docs.google.com/forms/d/1kIa9-KfjdoMsAOIdv8ikkvAwN3jpIISr8Ax-toXptMs/)
 
-## Próximas atividades
+## Atividades recentes
 
 ----
 
 ### Introdução à Robótica no SESC Paulista
 
-Nos dias 8, 15, 22 e 29 de maio e 5, 12, 19 e 26 de junho de 2018, João Adriano Freitas e Monica Rizzolli ensinam os primeiros passos na robótica com atividades que vão desde o ensino de ciência da computação desplugada até a construção de um robô desenhista, passando pela história das máquinas de desenhar.
+Nos dias 8, 15, 22 e 29 de maio e 5, 12, 19 e 26 de junho de 2018, João Adriano Freitas e Monica Rizzolli ensinaram os primeiros passos na robótica com atividades que foram desde o ensino de ciência da computação desplugada até a construção de um robô desenhista, passando pela história das máquinas de desenhar.
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/155042_INTRODUCAO+A+ROBOTICA).
 
 ### Introdução à Robótica no SESC Taubaté
 
-Nos dias 28 de abril, 5 e 19 de maio e 2 de junho de 2018, realizaremos oficinas de introdução a robótica com uma turma de jovens do SESC Taubaté. Os temas abordados serão: Atividades Desplugadas e Introdução a Programação com Maurício Mudrik e Monica Rizzolli; Arte e Programação e Montagem de um Robô Desenhista com João Adriano Freitas e Monica Rizzolli; Automação Residencial com João Adriano Freitas e Maurício Mudrik.
+Nos dias 28 de abril, 5 e 19 de maio e 2 de junho de 2018, realizamos oficinas de introdução a robótica com uma turma de jovens do SESC Taubaté. Os temas abordados foram: Atividades Desplugadas e Introdução a Programação com Maurício Mudrik e Monica Rizzolli; Arte e Programação e Montagem de um Robô Desenhista com João Adriano Freitas e Monica Rizzolli; Automação Residencial com João Adriano Freitas e Maurício Mudrik.
 
 Mais informações na [Revista Programação Maio SESC Taubaté](https://issuu.com/sesctaubate/docs/programacao_maio_sesc_taubate_2f3416c7510684).
 
 Veja também [artigo a respeito da atividade](https://guiataubate.com.br/noticias/2018/04/curso-de-robotica-e-uma-das-atracoes-de-sabado-no-sesc).
-
-## Atividades recentes
-
-----
 
 ### Máquinas de Desenhar no Circuito SESC de Artes 2018
 
