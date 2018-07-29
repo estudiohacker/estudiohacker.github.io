@@ -12,6 +12,13 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 ## Atividades recentes
 
 ----
+### Scratch Extension for Data Visualization na Scratch Conference 2018 no MIT
+
+Entre os dias 26 e 28 de julho de 2018, João Adriano Freitas em parceria com a Cassia Fernandez da Universidade de São Paulo, apresentaram na conferência Scratch 2018 no MIT Media Lab, Boston, Estados Unidos, uma extensão desenvolvida para o Scratch 3.0. A partir de uma atividade mão na massa, os participantes exploraram as possibilidades de visualização de dados coletados por diferentes fontes em projetos no Scratch 3.0. A extensão tem como principal objetivo auxiliar os estudantes nos primeiros passos na ciência de dados e abrir possibilidades para outras visualizações que vão além do plano cartesiano.
+
+A extensão está disponível em [https://jaafreitas.github.io/scratch-gui/](https://jaafreitas.github.io/scratch-gui/)
+
+Mais informações na [página da conferência](https://scratch.mit.edu/conference/2018/143/details).
 
 ### Introdução à Robótica no SESC Paulista
 
