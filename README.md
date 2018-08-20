@@ -26,6 +26,12 @@ Nos dias 8, 15, 22 e 29 de maio e 5, 12, 19 e 26 de junho de 2018, João Adriano
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/155042_INTRODUCAO+A+ROBOTICA).
 
+### Sequência pedagógica desplugada na FIC Cascavel
+
+Entre os dias 17 e 20 de maio, Maurício Sandler Mudrik apoiou a Rede Brasileira de Aprendizagem Criativa com demonstração da sequência pedagógica desplugada (ensino de ciência da computação sem uso de computadores) focado no aprendizado de Scratch, apresentando também a versão para tabuleiro.
+
+Mais informações na nossa [página do Facebook](https://www.facebook.com/estudiohacker).
+
 ### Introdução à Robótica no SESC Taubaté
 
 Nos dias 28 de abril, 5 e 19 de maio e 2 de junho de 2018, realizamos oficinas de introdução a robótica com uma turma de jovens do SESC Taubaté. Os temas abordados foram: Atividades Desplugadas e Introdução a Programação com Maurício Mudrik e Monica Rizzolli; Arte e Programação e Montagem de um Robô Desenhista com João Adriano Freitas e Monica Rizzolli; Automação Residencial com João Adriano Freitas e Maurício Mudrik.
