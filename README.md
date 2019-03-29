@@ -12,6 +12,18 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 ## Atividades recentes
 ----
 
+### Mostra de Arte e Tecnologia na Escola Projeto Vida
+
+No dia 6 de outubro de 2018, Allan Moreira e João Adriano Freitas orientaram os participantes da oficina Invenções com BBC micro:bit na criação de protótipos para solucionarem problemas do nosso dia a dia como saúde, bem-estar, navegação, automação etc utilizando o BBC micro:bit, materiais de papelaria e reciclados.
+
+Mais informações na [página do evento](https://sites.google.com/escolapv.com.br/mostranapv/).
+
+### Conferência Brasileira de Aprendizagem Criativa 2018
+
+Entre os dias 26 e 28 de setembro, em Curitiba (PR), aconteceu a 1ª Conferência Brasileira de Aprendizagem Criativa, evento que reuniu gestores, educadores, pesquisadores, empreendedores e desenvolvedores interessados na adoção da aprendizagem criativa em escolas e espaços de educação não formal de todo Brasil.
+
+Mais informações em breve.
+
 ### Scratch Extension for Data Visualization na Scratch Conference 2018 no MIT
 
 Entre os dias 26 e 28 de julho de 2018, João Adriano Freitas em parceria com a Cassia Fernandez da Universidade de São Paulo, apresentaram na conferência Scratch 2018 no MIT Media Lab, Boston, Estados Unidos, uma extensão desenvolvida para o Scratch 3.0. A partir de uma atividade mão na massa, os participantes exploraram as possibilidades de visualização de dados coletados por diferentes fontes em projetos no Scratch 3.0. A extensão tem como principal objetivo auxiliar os estudantes nos primeiros passos na ciência de dados e abrir possibilidades para outras visualizações que vão além do plano cartesiano.
@@ -25,6 +37,9 @@ Mais informações na [página da conferência](https://scratch.mit.edu/conferen
 Nos dias 8, 15, 22 e 29 de maio e 5, 12, 19 e 26 de junho de 2018, João Adriano Freitas e Monica Rizzolli ensinaram os primeiros passos na robótica com atividades que foram desde o ensino de ciência da computação desplugada até a construção de um robô desenhista, passando pela história das máquinas de desenhar.
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/155042_INTRODUCAO+A+ROBOTICA).
+
+Veja também [artigo a respeito da atividade](https://www.sescsp.org.br/online/artigo/12026_VOCE+NAO+VAI+QUERER+DEIXAR+O+4+ANDAR+DO+SESC+AVENIDA+PAULISTA).
+
 
 ### Sequência pedagógica desplugada na FIC Cascavel
 
