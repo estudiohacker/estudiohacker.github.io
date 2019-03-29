@@ -44,7 +44,7 @@ Mais informações na [página do evento](http://portal.itatiba.sp.gov.br/servic
 
 ### Redes que Transformam
 
-Nos dias 23, 24 e 25 de novembro, João Adriano Freitas e Maurício Sandler Mudrik facilitaram a oficina Aldeira Criativa: Introdução a Aprendizagem Criativa pela Rede Brasileira de Aprendizagem Criativa.
+No dia 25 de novembro de 2018, João Adriano Freitas e Maurício Sandler Mudrik facilitaram a oficina Aldeira Criativa: Introdução a Aprendizagem Criativa pela Rede Brasileira de Aprendizagem Criativa no evento Redes que Transformam da Fundação Lemann.
 
 Mais informações em breve.
 
@@ -55,6 +55,12 @@ Informações na [página do evento](https://fundacaolemann.org.br/noticias/rede
 Nos dias 21 e 28 de novembro e 5, 12 e 19 de dezembro de 2018, tivemos um ateliê aberto com João Adriano Freitas e Monica Rizzolli no espaço de Arte e Tecnologia do SESC 24 de maio. O Ateliê aberto proporcionou horários para o atendimento, desenvolvimento e orientação de projetos artísticos individuais em programação: compreendendo sua elaboração, conceituação e acompanhamento técnico em sua construção. O ateliê contou com a presença de um orientador técnico, responsável pela orientação da utilização dos equipamentos do ateliê e das questões fundamentais da ciência da computação, e um orientador artístico, responsável pelas leituras de obras, referências da história da arte, poética da programação, recursos expressivos do código.
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/171059_HACKERISMO+E+PROGRAMACAO+EM+ARTES+VISUAIS).
+
+### Dojo de Arduino na ROADSEC São Paulo 2018
+
+No dia 10 de novembro de 2018, Allan Moreira e João Adriano Freitas realizaram um Dojo de Introdução ao Arduino no Dumont Hackerspace da ROADSEC São Paulo.
+
+Mais informações na [página do evento](https://roadsec.com.br/).
 
 ### Espaço Educação na Latinoware 2018
 
@@ -72,7 +78,7 @@ Mais informações na [página do evento](https://sites.google.com/escolapv.com.
 
 ### Conferência Brasileira de Aprendizagem Criativa 2018
 
-Entre os dias 26 e 28 de setembro, em Curitiba (PR), aconteceu a 1ª Conferência Brasileira de Aprendizagem Criativa com a participação de Allan Moreira e João Adriano Freitas. O evento reuniu gestores, educadores, pesquisadores, empreendedores e desenvolvedores interessados na adoção da aprendizagem criativa em escolas e espaços de educação não formal de todo Brasil.
+Entre os dias 26 e 28 de setembro de 2018, em Curitiba (PR), aconteceu a 1ª Conferência Brasileira de Aprendizagem Criativa com a participação de Allan Moreira e João Adriano Freitas. O evento reuniu gestores, educadores, pesquisadores, empreendedores e desenvolvedores interessados na adoção da aprendizagem criativa em escolas e espaços de educação não formal de todo Brasil.
 
 Mais informações em breve.
 
