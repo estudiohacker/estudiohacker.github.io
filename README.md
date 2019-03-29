@@ -12,6 +12,12 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 ## Atividades recentes
 ----
 
+### Hackers mirim no SESC 24 de maio
+
+Entre os dias 15 e 18 de janeiro de 2019, Allan Moreira e João Adriano Freitas realizaram o curso intensivo de férias Hackers mirim no Espaço de Tecnologias e Artes do SESC 24 de maio. No curso, jovens e crianças foram iniciados à robótica criativa, com conceitos de arte e tecnologia a partir de atividades mão na massa, que incentivaram a colaboração entre eles. Os alunos utilizaram o BBC micro:bit e resolveram desafios ligados a temas atuais utilizando linguagem de programação em blocos, além de terem confeccionado a sua primeira placa de circuito impresso.
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/176993_CURSO+INTENSIVO+HACKERS+MIRINS).
+
 ### Renove seu brinquedo no SESC Birigui
 
 Nos dias 5 e 6 de janeiro de 2019, tivemos uma vivência coletiva com João Adriano Freitas e Monica Rizzolli no espaço de Arte e Tecnologia do SESC Birigui. A vivência reuniu famílias para a ação participativa "Renove seu brinquedo", na qual os integrantes aprenderam sobre arte e eletrônica através da modificação e customização de brinquedos trazidos pelos próprios participantes. As crianças exercitaram sua criatividade e habilidades motoras e cognitivas ao renovarem seus velhos brinquedos, tornando-se inventores do seu próprio universo lúdico.
