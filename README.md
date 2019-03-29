@@ -12,6 +12,12 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 ## Atividades recentes
 ----
 
+### Renove seu brinquedo no SESC Birigui
+
+Nos dias 5 e 6 de janeiro de 2019, tivemos uma vivência coletiva com João Adriano Freitas e Monica Rizzolli no espaço de Arte e Tecnologia do SESC Birigui. A vivência reuniu famílias para a ação participativa "Renove seu brinquedo", na qual os integrantes aprenderam sobre arte e eletrônica através da modificação e customização de brinquedos trazidos pelos próprios participantes. As crianças exercitaram sua criatividade e habilidades motoras e cognitivas ao renovarem seus velhos brinquedos, tornando-se inventores do seu próprio universo lúdico.
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/178194_RENOVE+SEU+BRINQUEDO).
+
 ### Hackerismo e Programação em Artes Visuais no SESC 24 de maio
 
 Nos dias 21 e 28 de novembro e 5, 12 e 19 de dezembro de 2018, tivemos um ateliê aberto com João Adriano Freitas e Monica Rizzolli no espaço de Arte e Tecnologia do SESC 24 de maio. O Ateliê aberto proporcionou horários para o atendimento, desenvolvimento e orientação de projetos artísticos individuais em programação: compreendendo sua elaboração, conceituação e acompanhamento técnico em sua construção. O ateliê contou com a presença de um orientador técnico, responsável pela orientação da utilização dos equipamentos do ateliê e das questões fundamentais da ciência da computação, e um orientador artístico, responsável pelas leituras de obras, referências da história da arte, poética da programação, recursos expressivos do código.
