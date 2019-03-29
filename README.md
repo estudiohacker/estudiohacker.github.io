@@ -12,6 +12,14 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 ## Atividades recentes
 ----
 
+### Espaço Educação na Latinoware 2018
+
+Nos dias 17 e 19 de outubro de 2018, João Adriano Freitas fez uma oficina de Robótica com BBC micro:bit e participou de uma mesa redonda sobre computação criativa na Latinoware EDU 2018.
+
+Mais informações na [página do evento](https://latinowareedu.splashthat.com/).
+
+Veja também [artigo a respeito da atividade](https://2018.latinoware.org/robotica-nas-escolas-o-universo-do-microbit/).
+
 ### Mostra de Arte e Tecnologia na Escola Projeto Vida
 
 No dia 6 de outubro de 2018, Allan Moreira e João Adriano Freitas orientaram os participantes da oficina Invenções com BBC micro:bit na criação de protótipos para solucionarem problemas do nosso dia a dia como saúde, bem-estar, navegação, automação etc utilizando o BBC micro:bit, materiais de papelaria e reciclados.
