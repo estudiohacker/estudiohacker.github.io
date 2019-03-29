@@ -9,6 +9,28 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 ### Contato
 [envie uma mensagem](https://docs.google.com/forms/d/1kIa9-KfjdoMsAOIdv8ikkvAwN3jpIISr8Ax-toXptMs/)
 
+
+## Próximas atividades
+----
+
+### Vivência Capture a Bandeira no SESC 24 de maio
+
+Com Allan Moreira e João Adriano Freitas em abril 2019.
+
+Mais informações em breve.
+
+### Invertenção artística Dia sem Elevador no SESC Florêncio de Abreu
+
+Com João Adriano Freitas em abril 2019
+
+Mais informações em breve.
+
+### Ateliê de programação com Arduino no SESC 24 de maio
+
+Com Allan Moreira e João Adriano Freitas em maio e junho de 2019.
+
+Mais informações em breve.
+
 ## Atividades recentes
 ----
 
