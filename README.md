@@ -12,6 +12,12 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 ## Atividades recentes
 ----
 
+### Máquina Botânica de Goldberg no SESC Birigui
+
+Nos dias 16 e 17 de março de 2019, tivemos uma vivência coletiva com João Adriano Freitas e Monica Rizzolli no espaço de Arte e Tecnologia do SESC Birigui durante o FestA! - Festival de Aprender. A vivência reuniu famílias para uma ação participativa na qual os integrantes aprenderam sobre arte, eletrônica básica, reações em cadeia e meio ambiente, por meio da construção e experimentação de uma máquina que executava uma tarefa simples - regar uma planta - utilizando uma reação em cadeia.
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/184178_MAQUINA+BOTANICA+DE+GOLDBERG+SISTEMA+DE+IRRIGACAO+AUTOMATICA).
+
 ### Hackers mirim no SESC 24 de maio
 
 Entre os dias 15 e 18 de janeiro de 2019, Allan Moreira e João Adriano Freitas realizaram o curso intensivo de férias Hackers mirim no Espaço de Tecnologias e Artes do SESC 24 de maio. No curso, jovens e crianças foram iniciados à robótica criativa, com conceitos de arte e tecnologia a partir de atividades mão na massa, que incentivaram a colaboração entre eles. Os alunos utilizaram o BBC micro:bit e resolveram desafios ligados a temas atuais utilizando linguagem de programação em blocos, além de terem confeccionado a sua primeira placa de circuito impresso.
