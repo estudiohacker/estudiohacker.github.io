@@ -12,6 +12,12 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 ## Atividades recentes
 ----
 
+### Terceiro Festival de Invenção e Criatividade em São Paulo
+
+Entre os dias 19 e 21 de março de 2019, João Adriano Freitas realizou as oficinas de Introdução ao Scratch para Educadores e Introdução a Computação Criativa com Scratch e BBC micro:bit no Festival de Invenção e Criatividade. O FIC é uma grande celebração do espírito inventivo, colaborativo e mão na massa da educação brasileira. Nele, crianças, jovens, seus familiares e educadores tem a oportunidade de explorar materiais e tecnologias high e low tech, participar de atividades e aprender de forma estimulante e descontraída. O Festival tem como objetivos divulgar, inspirar e facilitar a implementação de atividades de aprendizagem mão na massa em ambientes educacionais formais e não formais de todo o país.
+
+Mais informações na [página do evento](http://www.ficmaker.org.br/2019/).
+
 ### Máquina Botânica de Goldberg no SESC Birigui
 
 Nos dias 16 e 17 de março de 2019, tivemos uma vivência coletiva com João Adriano Freitas e Monica Rizzolli no espaço de Arte e Tecnologia do SESC Birigui durante o FestA! - Festival de Aprender. A vivência reuniu famílias para uma ação participativa na qual os integrantes aprenderam sobre arte, eletrônica básica, reações em cadeia e meio ambiente, por meio da construção e experimentação de uma máquina que executava uma tarefa simples - regar uma planta - utilizando uma reação em cadeia.
