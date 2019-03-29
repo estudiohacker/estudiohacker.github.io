@@ -12,6 +12,12 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 ## Atividades recentes
 ----
 
+### Hackerismo e Programação em Artes Visuais no SESC 24 de maio
+
+Nos dias 21 e 28 de novembro e 5, 12 e 19 de dezembro de 2018, tivemos um ateliê aberto com João Adriano Freitas e Monica Rizzolli no espaço de Arte e Tecnologia do SESC 24 de maio. O Ateliê aberto proporcionou horários para o atendimento, desenvolvimento e orientação de projetos artísticos individuais em programação: compreendendo sua elaboração, conceituação e acompanhamento técnico em sua construção. O ateliê contou com a presença de um orientador técnico, responsável pela orientação da utilização dos equipamentos do ateliê e das questões fundamentais da ciência da computação, e um orientador artístico, responsável pelas leituras de obras, referências da história da arte, poética da programação, recursos expressivos do código.
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/171059_HACKERISMO+E+PROGRAMACAO+EM+ARTES+VISUAIS).
+
 ### Espaço Educação na Latinoware 2018
 
 Nos dias 17 e 19 de outubro de 2018, João Adriano Freitas fez uma oficina de Robótica com BBC micro:bit e participou de uma mesa redonda sobre computação criativa na Latinoware EDU 2018.
