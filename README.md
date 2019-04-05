@@ -13,6 +13,12 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 ## Próximas atividades
 ----
 
+### Computação Criativa com BBC micro:bit na Escola Avenues São Paulo
+
+Com Allan Moreira e João Adriano Freitas em abril 2019.
+
+Mais informações em breve.
+
 ### Vivência Capture a Bandeira no SESC 24 de maio
 
 Com Allan Moreira e João Adriano Freitas em abril 2019.
