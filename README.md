@@ -36,6 +36,12 @@ Dia 24 de abril é comemorado o Dia sem Elevador. Para celebrar a data, será pr
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/185222_SAUDE+PASSO+A+PASSO).
 
+### Scratch Day no SESC Santana
+
+Com João Adriano Freitas, no dia 10 de maio de 2019.
+
+Mais informações na [página do evento](https://day.scratch.mit.edu/events/8275/).
+
 ### Ateliê de programação com Arduino no SESC 24 de maio
 
 Com Allan Moreira e João Adriano Freitas em maio e junho de 2019.
