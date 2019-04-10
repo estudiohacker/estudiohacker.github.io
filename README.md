@@ -28,11 +28,13 @@ Os participantes resolvem diversos desafios de criptografia que os ajudam a ente
 Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/185104_HACKERS+MIRINS+ENFRENTAM+O+DESAFIO+ANALOGICO+CAPTURE+A+BANDEIRA).
 
 
-### Invertenção artística Dia sem Elevador no SESC Florêncio de Abreu
+### Intervenção artística Dia sem Elevador no SESC Florêncio de Abreu
 
-Com João Adriano Freitas em abril 2019
+Com João Adriano Freitas, entre os dias 22 e 30 de abril de 2019.
 
-Mais informações em breve.
+Dia 24 de abril é comemorado o Dia sem Elevador. Para celebrar a data, será produzida uma intervenção artística que busca levar o público à reflexão sobre a saudável prática de exercitar-se subindo um andar ou descendo dois pelas escadas, fortalecendo a musculatura e mantendo a disposição pessoal. Por meio da atividade, o público é convidado a interagir com os sistemas instalados na escada do térreo ao primeiro andar da unidade. A cada passo, uma manifestação sonora ocorre, resultado da leitura do sistema digital à presença dos transeuntes.
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/185222_SAUDE+PASSO+A+PASSO).
 
 ### Ateliê de programação com Arduino no SESC 24 de maio
 
