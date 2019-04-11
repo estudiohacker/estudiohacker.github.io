@@ -15,9 +15,9 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 
 ### Computação Criativa com BBC micro:bit na Escola Avenues São Paulo
 
-Com Allan Moreira e João Adriano Freitas em abril 2019.
+Com Allan Moreira e João Adriano Freitas, no dia 14 de abril 2019.
 
-Mais informações em breve.
+Mais informações na [página do evento](https://www.avenues.org/pt-br/sp/ruckusrsvp/).
 
 ### Vivência Capture a Bandeira no SESC 24 de maio
 
@@ -26,7 +26,6 @@ Com Allan Moreira e João Adriano Freitas, nos dias 13, 20 e 27 de abril e 04 de
 Os participantes resolvem diversos desafios de criptografia que os ajudam a entender mais sobre segurança e sistemas de comunicação. Os desafios podem ser resolvidos em grupos ou até mesmo de forma individual. Os participantes iniciam a atividade com desafios simples e a complexidade vai aumentando à medida que avançam. Os desafios tratam temas como alfabeto Leet, Cifra de César, Cifra Maçônica, Braille, Sistema Hexa e Binário etc Toda a atividade acontece sem o uso de computadores e internet.
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/185104_HACKERS+MIRINS+ENFRENTAM+O+DESAFIO+ANALOGICO+CAPTURE+A+BANDEIRA).
-
 
 ### Intervenção artística Dia sem Elevador no SESC Florêncio de Abreu
 
