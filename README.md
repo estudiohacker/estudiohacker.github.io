@@ -31,6 +31,18 @@ Com João Adriano Freitas, nos dias 17, 24 e 31 de maio e 7, 14 e 28 de junho de
 
 Mais informações em breve.
 
+### Renove seu Brinquedo no SESC Ipiranga
+
+Com Allan Moreira, João Adriano Freitas e Monica Rizzolli, nos dias 2, 9, 16 e 23 de junho de 2019.
+
+Mais informações em breve.
+
+### Criando placas de Circuito Impresso no SESC Ipiranga
+
+Com Allan Moreira e João Adriano Freitas, nos dias 6, 13, 20 e 27 de junho de 2019.
+
+Mais informações em breve.
+
 ## Atividades recentes
 ----
 
