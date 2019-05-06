@@ -21,7 +21,7 @@ Mais informações na [página do evento](https://day.scratch.mit.edu/events/827
 
 ### Ateliê de programação com Arduino no SESC 24 de maio
 
-Com Allan Moreira e João Adriano Freitas em maio e junho de 2019.
+Com Allan Moreira e João Adriano Freitas, nos dias 14, 21 e 28 de maio, 4, 11, 18 e 25 de junho e 2 de julho de 2019.
 
 Mais informações em breve.
 
