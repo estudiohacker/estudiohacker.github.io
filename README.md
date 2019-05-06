@@ -25,6 +25,12 @@ Com Allan Moreira e João Adriano Freitas em maio e junho de 2019.
 
 Mais informações em breve.
 
+### Computação Criativa com BBC micro:bit no SESC Guarulhos
+
+Com João Adriano Freitas, nos dias 17, 24 e 31 de maio e 7, 14 e 28 de junho de 2019.
+
+Mais informações em breve.
+
 ## Atividades recentes
 ----
 
