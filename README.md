@@ -13,28 +13,6 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 ## Próximas atividades
 ----
 
-### Computação Criativa com BBC micro:bit na Escola Avenues São Paulo
-
-Com Allan Moreira e João Adriano Freitas, no dia 14 de abril 2019.
-
-Mais informações na [página do evento](https://www.avenues.org/pt-br/sp/ruckusrsvp/).
-
-### Vivência Capture a Bandeira no SESC 24 de maio
-
-Com Allan Moreira e João Adriano Freitas, nos dias 13, 20 e 27 de abril e 04 de maio de 2019.
-
-Os participantes resolvem diversos desafios de criptografia que os ajudam a entender mais sobre segurança e sistemas de comunicação. Os desafios podem ser resolvidos em grupos ou até mesmo de forma individual. Os participantes iniciam a atividade com desafios simples e a complexidade vai aumentando à medida que avançam. Os desafios tratam temas como alfabeto Leet, Cifra de César, Cifra Maçônica, Braille, Sistema Hexa e Binário etc Toda a atividade acontece sem o uso de computadores e internet.
-
-Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/185104_HACKERS+MIRINS+ENFRENTAM+O+DESAFIO+ANALOGICO+CAPTURE+A+BANDEIRA).
-
-### Intervenção artística Dia sem Elevador no SESC Florêncio de Abreu
-
-Com João Adriano Freitas, entre os dias 22 e 30 de abril de 2019.
-
-Dia 24 de abril é comemorado o Dia sem Elevador. Para celebrar a data, será produzida uma intervenção artística que busca levar o público à reflexão sobre a saudável prática de exercitar-se subindo um andar ou descendo dois pelas escadas, fortalecendo a musculatura e mantendo a disposição pessoal. Por meio da atividade, o público é convidado a interagir com os sistemas instalados na escada do térreo ao primeiro andar da unidade. A cada passo, uma manifestação sonora ocorre, resultado da leitura do sistema digital à presença dos transeuntes.
-
-Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/185222_SAUDE+PASSO+A+PASSO).
-
 ### Scratch Day no SESC Santana
 
 Com João Adriano Freitas, no dia 10 de maio de 2019.
@@ -49,6 +27,28 @@ Mais informações em breve.
 
 ## Atividades recentes
 ----
+
+### Vivência Capture a Bandeira no SESC 24 de maio
+
+Com Allan Moreira e João Adriano Freitas, nos dias 13, 20 e 27 de abril e 04 de maio de 2019.
+
+Os participantes resolvem diversos desafios de criptografia que os ajudam a entender mais sobre segurança e sistemas de comunicação. Os desafios podem ser resolvidos em grupos ou até mesmo de forma individual. Os participantes iniciam a atividade com desafios simples e a complexidade vai aumentando à medida que avançam. Os desafios tratam temas como alfabeto Leet, Cifra de César, Cifra Maçônica, Braille, Sistema Hexa e Binário etc Toda a atividade acontece sem o uso de computadores e internet.
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/185104_HACKERS+MIRINS+ENFRENTAM+O+DESAFIO+ANALOGICO+CAPTURE+A+BANDEIRA).
+
+### Intervenção artística Dia sem Elevador no SESC Florêncio de Abreu
+
+Com João Adriano Freitas, entre os dias 22 e 30 de abril de 2019.
+
+Dia 24 de abril é comemorado o Dia sem Elevador. Para celebrar a data, foi produzida uma intervenção artística que buscou levar o público à reflexão sobre a saudável prática de exercitar-se subindo um andar ou descendo dois pelas escadas, fortalecendo a musculatura e mantendo a disposição pessoal. Por meio da atividade, o público foi convidado a interagir com os sistemas instalados na escada do térreo ao primeiro andar da unidade. A cada passo, uma manifestação sonora ocorria, resultado da leitura do sistema digital à presença dos transeuntes.
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/185222_SAUDE+PASSO+A+PASSO).
+
+### Computação Criativa com BBC micro:bit na Escola Avenues São Paulo
+
+Com Allan Moreira e João Adriano Freitas, no dia 14 de abril 2019.
+
+Mais informações na [página do evento](https://www.avenues.org/pt-br/sp/ruckusrsvp/).
 
 ### Terceiro Festival de Invenção e Criatividade em São Paulo
 
