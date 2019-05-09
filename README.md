@@ -23,13 +23,13 @@ Mais informações na [página do evento](https://day.scratch.mit.edu/events/827
 
 Com Allan Moreira e João Adriano Freitas, nos dias 14, 21 e 28 de maio, 4, 11, 18 e 25 de junho e 2 de julho de 2019.
 
-Mais informações em breve.
+Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/187895_ATELIE+DE+PROGRAMACAO+PARA+ARDUINO).
 
 ### Computação Criativa com BBC micro:bit no SESC Guarulhos
 
 Com João Adriano Freitas, nos dias 17, 24 e 31 de maio e 7, 14 e 28 de junho de 2019.
 
-Mais informações em breve.
+Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/192063_COMPUTACAO+CRIATIVA+COM+BBC+MICROBIT).
 
 ### Renove seu Brinquedo no SESC Ipiranga
 
