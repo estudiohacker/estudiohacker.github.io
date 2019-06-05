@@ -13,38 +13,54 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 ## Próximas atividades
 ----
 
-### Scratch Day no SESC Santana
-
-Com João Adriano Freitas, no dia 10 de maio de 2019.
-
-Mais informações na [página do evento](https://day.scratch.mit.edu/events/8275/).
-
 ### Ateliê de programação com Arduino no SESC 24 de maio
 
 Com Allan Moreira e João Adriano Freitas, nos dias 14, 21 e 28 de maio, 4, 11, 18 e 25 de junho e 2 de julho de 2019.
+
+O ateliê de programação para Arduino tem como objetivo introduzir os participantes a programação de microcontroladores baseados em Arduino através de uma abordagem mão na massa orientada a projetos. A partir de sensores e atuadores como LEDs, potenciômetros, LDRs, buzzers, botões, LCDs, temperatura, ultrasônico, servo motor, motor de passo, movimento etc, criaremos projetos de semáforos, controle de estufa, termômetro digital, sistema de estacionamento, sensor de presença com temporizador etc.
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/187895_ATELIE+DE+PROGRAMACAO+PARA+ARDUINO).
 
 ### Computação Criativa com BBC micro:bit no SESC Guarulhos
 
-Com João Adriano Freitas, nos dias 17, 24 e 31 de maio e 7, 14 e 28 de junho de 2019.
+Com João Adriano Freitas, nos dias 7, 14 e 28 de junho de 2019.
 
-Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/192063_COMPUTACAO+CRIATIVA+COM+BBC+MICROBIT).
+Iniciação de jovens e crianças à computação criativa, abordando conceitos de arte e tecnologia a partir de atividades mão na massa. Nas atividades temos diversos desafios ligados a temas atuais como saúde, bem-estar, ciência dos dados, automação etc. Os participantes constroem protótipos com o BBC micro:bit utilizando materiais de papelaria e recicláveis, enquanto aprendem lógica de programação a partir do uso de linguagem de programação em blocos.
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/193367_COMPUTACAO+CRIATIVA+COM+BBC+MICROBIT).
 
 ### Renove seu Brinquedo no SESC Ipiranga
 
 Com Allan Moreira, João Adriano Freitas e Monica Rizzolli, nos dias 2, 9, 16 e 23 de junho de 2019.
 
-Mais informações em breve.
+Nesta oficina os participantes aprendem sobre arte e eletrônica, através da modificação e customização de brinquedos trazidos pelos próprios participantes. O público exercita sua criatividade e suas habilidades motoras e cognitivas ao renovarem seus velhos brinquedos, tornando-se inventores do seu próprio universo lúdico.
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/188630_RENOVE+SEU+BRINQUEDO).
 
 ### Criando placas de Circuito Impresso no SESC Ipiranga
 
 Com Allan Moreira e João Adriano Freitas, nos dias 6, 13, 20 e 27 de junho de 2019.
 
-Mais informações em breve.
+Aprenda a criar suas próprias placas eletrônicas. Nas aulas, os participantes testam componentes eletrônicos e desenham um circuito nas placas, que depois são corroídas criando um circuito elétrico. Ao final do curso o aluno é capaz de produzir suas próprias placas de forma autônoma.
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/190151_CRIANDO+PLACAS+DE+CIRCUITO+IMPRESSO).
 
 ## Atividades recentes
 ----
+
+### Computação Criativa com BBC micro:bit no SESC Guarulhos
+
+Com João Adriano Freitas, nos dias 17, 24 e 31 de maio de 2019.
+
+Iniciação de jovens e crianças à computação criativa, abordando conceitos de arte e tecnologia a partir de atividades mão na massa. Nas atividades temos diversos desafios ligados a temas atuais como saúde, bem-estar, ciência dos dados, automação etc. Os participantes constroem protótipos com o BBC micro:bit utilizando materiais de papelaria e recicláveis, enquanto aprendem lógica de programação a partir do uso de linguagem de programação em blocos.
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/192063_COMPUTACAO+CRIATIVA+COM+BBC+MICROBIT).
+
+### Scratch Day no SESC Santana
+
+Com João Adriano Freitas, no dia 10 de maio de 2019.
+
+Mais informações na [página do evento](https://day.scratch.mit.edu/events/8275/).
 
 ### Vivência Capture a Bandeira no SESC 24 de maio
 
