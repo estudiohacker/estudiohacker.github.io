@@ -13,6 +13,63 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 ## Próximas atividades
 ----
 
+### Let's Go Festival 2019
+
+Com João Adriano Freitas em setembro de 2019.
+
+Mais informações em breve.
+
+### Conferência Brasileira de Aprendizagem Criativa 2019
+
+Com João Adriano Freitas em setembro de 2019.
+
+Mais informações em breve.
+
+### Internet das Coisas no SESC 24 de maio
+
+Com Allan Moreira e João Adriano Freitas em setembro, outubro, novembro e dezembro de 2019.
+
+Mais informações em breve.
+
+### Open Hack Day de Internet das Coisas no SESC 24 de maio
+
+Com Allan Moreira e João Adriano Freitas em setembro e novembro de 2019.
+
+Mais informações em breve.
+
+### Computação Criativa com Scratch no SESC Guarulhos
+
+Com João Adriano Freitas em setembro de 2019.
+
+Mais informações em breve.
+
+### Renove seu Brinquedo no SESC Paulista
+
+Com Allan Moreira, Leilane Sousa e Monica Rizzolli em outubro de 2019.
+
+Mais informações em breve.
+
+### Criando placas de Circuito Impresso nas Oficinas Culturais do Estado de São Paulo
+
+Com João Adriano Freitas em novembro e dezembro de 2019.
+
+Mais informações em breve.
+
+## Atividades recentes
+----
+
+### Ciclo formativo de Aprendizagem Criativa
+
+Com João Adriano Freitas em julho e agosto de 2019.
+
+Mais informações em breve.
+
+### Robótica Educacional com o kit ATTO na DRE São Miguel, São Paulo
+
+Com João Adriano Freitas em junho de 2019.
+
+Mais informações em breve.
+
 ### Ateliê de programação com Arduino no SESC 24 de maio
 
 Com Allan Moreira e João Adriano Freitas, nos dias 14, 21 e 28 de maio, 4, 11, 18 e 25 de junho e 2 de julho de 2019.
@@ -44,9 +101,6 @@ Com Allan Moreira e João Adriano Freitas, nos dias 6, 13, 20 e 27 de junho de 2
 Aprenda a criar suas próprias placas eletrônicas. Nas aulas, os participantes testam componentes eletrônicos e desenham um circuito nas placas, que depois são corroídas criando um circuito elétrico. Ao final do curso o aluno é capaz de produzir suas próprias placas de forma autônoma.
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/190151_CRIANDO+PLACAS+DE+CIRCUITO+IMPRESSO).
-
-## Atividades recentes
-----
 
 ### Computação Criativa com BBC micro:bit no SESC Guarulhos
 
