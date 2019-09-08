@@ -13,35 +13,35 @@ Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, basea
 ## Próximas atividades
 ----
 
-### Let's Go Festival 2019
+### Internet das Coisas para Iniciantes no SESC 24 de maio
 
-Com João Adriano Freitas em setembro de 2019.
+Com Allan Moreira e João Adriano Freitas, nos dias 12, 19 e 26 de setembro, 3, 10, 17, 24 e 31 de outubro, 7, 14, 21 e 28 de novembro, e 5 de dezembro de 2019.
 
-Mais informações em breve.
+A proposta tem como objetivo introduzir os principais conceitos de Internet das Coisas e suas aplicações através do uso de microcontroladores compatíveis com Arduino e mini-computadores de placa única como o Raspberry PI, em uma abordagem mão na massa orientada a projetos. A partir de sensores e atuadores como LEDs, potenciômetros, LDRs, buzzers, botões, temperatura, umidade do solo, ultrasônico, relês, servo motor, movimento etc e protocolos de comunicação como o MQTT, os participantes poderão criar projetos que serão monitorados e controlados tanto localmente como pela internet a partir de páginas ou dispositivos móveis como celulares e tablets.
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/203383_IOT+INTERNET+DAS+COISAS+PARA+INICIANTES).
+
+### Computação Criativa com Scratch no SESC Guarulhos
+
+Com João Adriano Freitas, nos dias 13, 20 e 27 de setembro de 2019.
+
+A proposta visa a iniciação de jovens e crianças à computação criativa, abordando conceitos de arte e tecnologia a partir de atividades mão na massa. Nas atividades temos diversos desafios ligados a temas atuais e, enquanto os participantes criam seus projetos utilizando a plataforma Scratch, aprendem lógica de programação a partir do uso de uma linguagem de programação em blocos.
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/202525_PROGRAMACAO+CRIATIVA+COM+SCRATCH).
+
+### Hack Day de Eletrônica e Internet das Coisas no SESC 24 de maio
+
+Com Allan Moreira e João Adriano Freitas, nos dias 14 e 28 de setembro, e 10 de novembro de 2019.
+
+No Open Hack Day aberto ao público, os participantes terão a oportunidade de montarem seus próprios projetos de IoT (Internet das Coisas) a partir de temáticas que serão estabelecidas e dos materiais que teremos disponíveis. O dia começa com uma pequena apresentação sobre a temática e logo em seguida os participantes se reúnem em grupos para colocarem em prática as suas soluções de Internet das Coisas.
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/203384_HACK+DAY+DE+ELETRONICA+E+INTERNET+DAS+COISAS).
 
 ### Conferência Brasileira de Aprendizagem Criativa 2019
 
 Com João Adriano Freitas em setembro de 2019.
 
-Mais informações em breve.
-
-### Internet das Coisas no SESC 24 de maio
-
-Com Allan Moreira e João Adriano Freitas em setembro, outubro, novembro e dezembro de 2019.
-
-Mais informações em breve.
-
-### Open Hack Day de Internet das Coisas no SESC 24 de maio
-
-Com Allan Moreira e João Adriano Freitas em setembro e novembro de 2019.
-
-Mais informações em breve.
-
-### Computação Criativa com Scratch no SESC Guarulhos
-
-Com João Adriano Freitas em setembro de 2019.
-
-Mais informações em breve.
+Mais informações na [página do evento](http://www.cbac.aprendizagemcriativa.org/programacao).
 
 ### Renove seu Brinquedo no SESC Paulista
 
@@ -51,24 +51,30 @@ Mais informações em breve.
 
 ### Criando placas de Circuito Impresso nas Oficinas Culturais do Estado de São Paulo
 
-Com João Adriano Freitas em novembro e dezembro de 2019.
+Com João Adriano Freitas, nos dias 23 e 30 de novembro, e 7 de dezembro de 2019.
 
 Mais informações em breve.
 
 ## Atividades recentes
 ----
 
-### Ciclo formativo de Aprendizagem Criativa
+### Let's Go Festival 2019
 
-Com João Adriano Freitas em julho e agosto de 2019.
+Com João Adriano Freitas, nos dias 3 e 4 de setembro de 2019.
 
-Mais informações em breve.
+Mais informações na [página do evento](https://www.letsgofestival.com.br/programacao/).
+
+### Computação Criativa com Scratch e BBC micro:bit no Ciclo formativo de Aprendizagem Criativa
+
+Com João Adriano Freitas, nos dias 31 de julho e 21 de agosto de 2019.
+
+Mais informações na [página do evento](https://docs.google.com/document/d/1W0NnqS1GXZ-6mPkGWthpW0GWYifWElGREUpgcSS_bWA/edit?usp=sharing).
 
 ### Robótica Educacional com o kit ATTO na DRE São Miguel, São Paulo
 
-Com João Adriano Freitas em junho de 2019.
+Com João Adriano Freitas, nos dias 12 e 19 de junho de 2019.
 
-Mais informações em breve.
+Formação para os Professores Orientadores de Informática Educativa do Município de São Paulo para apresentar os principais conceitos de eletrônica digital a partir dos sensores e atuadores disponíveis no kit da ATTO. A aprendizagem acontece utilizando-se o Arduino + Ardublock como ferramente de programação e um grande diversidade de projetos para que os professores tenham um experimentação mão na massa.
 
 ### Ateliê de programação com Arduino no SESC 24 de maio
 
@@ -171,8 +177,6 @@ Mais informações na [página do evento](http://portal.itatiba.sp.gov.br/servic
 ### Redes que Transformam
 
 No dia 25 de novembro de 2018, João Adriano Freitas e Maurício Sandler Mudrik facilitaram a oficina Aldeira Criativa: Introdução a Aprendizagem Criativa pela Rede Brasileira de Aprendizagem Criativa no evento Redes que Transformam da Fundação Lemann.
-
-Mais informações em breve.
 
 Informações na [página do evento](https://fundacaolemann.org.br/noticias/redesquetransformam-mais-de-400-educadores-juntos).
 
