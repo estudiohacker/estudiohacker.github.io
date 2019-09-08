@@ -47,11 +47,15 @@ Mais informações na [página do evento](http://www.cbac.aprendizagemcriativa.o
 
 Com Allan Moreira, Leilane Sousa e Monica Rizzolli em outubro de 2019.
 
+Nesta oficina os participantes aprendem sobre arte e eletrônica, através da modificação e customização de brinquedos trazidos pelos próprios participantes. O público exercita sua criatividade e suas habilidades motoras e cognitivas ao renovarem seus velhos brinquedos, tornando-se inventores do seu próprio universo lúdico.
+
 Mais informações em breve.
 
 ### Criando placas de Circuito Impresso nas Oficinas Culturais do Estado de São Paulo
 
 Com João Adriano Freitas, nos dias 23 e 30 de novembro, e 7 de dezembro de 2019.
+
+Aprenda a criar suas próprias placas eletrônicas. Nas aulas, os participantes testam componentes eletrônicos e desenham um circuito nas placas, que depois são corroídas criando um circuito elétrico.
 
 Mais informações em breve.
 
@@ -67,6 +71,8 @@ Mais informações na [página do evento](https://www.letsgofestival.com.br/prog
 ### Computação Criativa com Scratch e BBC micro:bit no Ciclo formativo de Aprendizagem Criativa
 
 Com João Adriano Freitas, nos dias 31 de julho e 21 de agosto de 2019.
+
+Esta atividade é voltada para quem já tem conhecimento em Scratch e quer começar a experimentá-lo com o mundo físico em uma abordagem de Aprendizagem Criativa. A oficina traz atividades mão na massa de livre experimentação com o Scratch e a extensão micro:bit, além de uma reflexão sobre computação criativa na escola.
 
 Mais informações na [página do evento](https://docs.google.com/document/d/1W0NnqS1GXZ-6mPkGWthpW0GWYifWElGREUpgcSS_bWA/edit?usp=sharing).
 
