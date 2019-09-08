@@ -66,6 +66,12 @@ Mais informações em breve.
 
 Com João Adriano Freitas, nos dias 3 e 4 de setembro de 2019.
 
+#### Exposição de projetos
+Exploraremos as diversas possibilidades de criação de projetos de Computação Criativa a partir do uso do BBC micro:bit com os roteiros de atividades feitos para o curso "Programe com BBC micro:bit: Criando soluções para questões do nosso dia a dia" da plataforma online educacional da [Positivo VC.Maker](https://www.positivoteceduc.com.br/solucao/vc-maker-programe-com-bbc-microbit/).
+
+#### Oficina
+Esta atividade é voltada para quem já tem conhecimento em Scratch e quer começar a experimentá-lo com o mundo físico em uma abordagem de Aprendizagem Criativa. A oficina traz atividades mão na massa de livre experimentação com o Scratch e a extensão micro:bit, além de uma reflexão sobre computação criativa na escola.
+
 Mais informações na [página do evento](https://www.letsgofestival.com.br/programacao/).
 
 ### Computação Criativa com Scratch e BBC micro:bit no Ciclo formativo de Aprendizagem Criativa
