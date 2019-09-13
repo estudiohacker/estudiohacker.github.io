@@ -37,6 +37,14 @@ No Open Hack Day aberto ao público, os participantes terão a oportunidade de m
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/203384_HACK+DAY+DE+ELETRONICA+E+INTERNET+DAS+COISAS).
 
+### Monitoramento de enchentes na Technology HUB 2019
+
+O projeto "Monitoramento de enchentes", desenvolvido por João Adriano Freitas e Maurício Mudrik, foi selecionado pelo Desafio IoT 2019 para a exposição ao público no Technology Hub 2019. O desenvolvimento teve o apoio do Núcleo de Mídias, Artes e Tecnologia de Paraty, Defesa Civil e CEMADEN. A exposição acontecerá nos dias 17 e 18 de setembro de 2019, das 13hs às 20hs, no Pro Magno Centro de Eventos, na Av. Profª Ida Kolb, 513, Casa Verde. A entrada é gratuita.
+
+Mais informações sobre o desafio na [página do Desafio IoT](https://desafiot.org.br/).
+
+Mais informações sobre o evento na [página do Technology Hub 2019](https://technologyhub.com.br/).
+
 ### Conferência Brasileira de Aprendizagem Criativa 2019
 
 Com João Adriano Freitas em setembro de 2019.
@@ -188,7 +196,7 @@ Mais informações na [página do evento](http://portal.itatiba.sp.gov.br/servic
 
 ### Redes que Transformam
 
-No dia 25 de novembro de 2018, João Adriano Freitas e Maurício Sandler Mudrik facilitaram a oficina Aldeira Criativa: Introdução a Aprendizagem Criativa pela Rede Brasileira de Aprendizagem Criativa no evento Redes que Transformam da Fundação Lemann.
+No dia 25 de novembro de 2018, João Adriano Freitas e Maurício Mudrik facilitaram a oficina Aldeira Criativa: Introdução a Aprendizagem Criativa pela Rede Brasileira de Aprendizagem Criativa no evento Redes que Transformam da Fundação Lemann.
 
 Informações na [página do evento](https://fundacaolemann.org.br/noticias/redesquetransformam-mais-de-400-educadores-juntos).
 
