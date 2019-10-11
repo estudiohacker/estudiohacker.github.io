@@ -21,14 +21,6 @@ A proposta tem como objetivo introduzir os principais conceitos de Internet das 
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/203383_IOT+INTERNET+DAS+COISAS+PARA+INICIANTES).
 
-### Computação Criativa com Scratch no SESC Guarulhos
-
-Com João Adriano Freitas, nos dias 13, 20 e 27 de setembro de 2019.
-
-A proposta visa a iniciação de jovens e crianças à computação criativa, abordando conceitos de arte e tecnologia a partir de atividades mão na massa. Nas atividades temos diversos desafios ligados a temas atuais e, enquanto os participantes criam seus projetos utilizando a plataforma Scratch, aprendem lógica de programação a partir do uso de uma linguagem de programação em blocos.
-
-Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/202525_PROGRAMACAO+CRIATIVA+COM+SCRATCH).
-
 ### Hack Day de Eletrônica e Internet das Coisas no SESC 24 de maio
 
 Com Allan Moreira e João Adriano Freitas, nos dias 14 e 28 de setembro, e 10 de novembro de 2019.
@@ -37,27 +29,13 @@ No Open Hack Day aberto ao público, os participantes terão a oportunidade de m
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/203384_HACK+DAY+DE+ELETRONICA+E+INTERNET+DAS+COISAS).
 
-### Monitoramento de enchentes na Technology HUB 2019
-
-O projeto "Monitoramento de enchentes", desenvolvido por João Adriano Freitas e Maurício Mudrik, foi selecionado pelo Desafio IoT 2019 para a exposição ao público no Technology Hub 2019. O desenvolvimento teve o apoio do Núcleo de Mídias, Artes e Tecnologia de Paraty, Defesa Civil e CEMADEN. A exposição acontecerá nos dias 17 e 18 de setembro de 2019, das 13hs às 20hs, no Pro Magno Centro de Eventos, na Av. Profª Ida Kolb, 513, Casa Verde. A entrada é gratuita.
-
-Mais informações sobre o desafio na [página do Desafio IoT](https://desafiot.org.br/).
-
-Mais informações sobre o evento na [página do Technology Hub 2019](https://technologyhub.com.br/).
-
-### Conferência Brasileira de Aprendizagem Criativa 2019
-
-Com João Adriano Freitas em setembro de 2019.
-
-Mais informações na [página do evento](http://www.cbac.aprendizagemcriativa.org/programacao).
-
 ### Renove seu Brinquedo no SESC Paulista
 
-Com Allan Moreira, Leilane Sousa e Monica Rizzolli em outubro de 2019.
+Com Allan Moreira, Leilane Sousa e Monica Rizzolli, nos dias 12 e 13 de outubro de 2019.
 
-Nesta oficina os participantes aprendem sobre arte e eletrônica, através da modificação e customização de brinquedos trazidos pelos próprios participantes. O público exercita sua criatividade e suas habilidades motoras e cognitivas ao renovarem seus velhos brinquedos, tornando-se inventores do seu próprio universo lúdico.
+A atividade propõe aos participantes um aprendizado sobre arte e eletrônica por meio da modificação e customização de brinquedos trazidos pelos próprios participantes. Os participantes exercitam sua criatividade e suas habilidades motoras e cognitivas ao renovarem seus velhos brinquedos, tornando-se inventores do seu próprio universo lúdico.
 
-Mais informações em breve.
+Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/205297_RENOVE+SEU+BRINQUEDO).
 
 ### Criando placas de Circuito Impresso nas Oficinas Culturais do Estado de São Paulo
 
@@ -69,6 +47,28 @@ Mais informações em breve.
 
 ## Atividades recentes
 ----
+
+### Conferência Brasileira de Aprendizagem Criativa 2019
+
+Com João Adriano Freitas em setembro de 2019.
+
+Mais informações na [página do evento](http://www.cbac.aprendizagemcriativa.org/programacao).
+
+### Computação Criativa com Scratch no SESC Guarulhos
+
+Com João Adriano Freitas, nos dias 13, 20 e 27 de setembro de 2019.
+
+A proposta visa a iniciação de jovens e crianças à computação criativa, abordando conceitos de arte e tecnologia a partir de atividades mão na massa. Nas atividades temos diversos desafios ligados a temas atuais e, enquanto os participantes criam seus projetos utilizando a plataforma Scratch, aprendem lógica de programação a partir do uso de uma linguagem de programação em blocos.
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/202525_PROGRAMACAO+CRIATIVA+COM+SCRATCH).
+
+### Monitoramento de enchentes na Technology HUB 2019
+
+O projeto "Monitoramento de enchentes", desenvolvido por João Adriano Freitas e Maurício Mudrik, foi selecionado pelo Desafio IoT 2019 para a exposição ao público no Technology Hub 2019. O desenvolvimento teve o apoio do Núcleo de Mídias, Artes e Tecnologia de Paraty, Defesa Civil e CEMADEN. A exposição acontecerá nos dias 17 e 18 de setembro de 2019, das 13hs às 20hs, no Pro Magno Centro de Eventos, na Av. Profª Ida Kolb, 513, Casa Verde. A entrada é gratuita.
+
+Mais informações sobre o desafio na [página do Desafio IoT](https://desafiot.org.br/).
+
+Mais informações sobre o evento na [página do Technology Hub 2019](https://technologyhub.com.br/).
 
 ### Let's Go Festival 2019
 
