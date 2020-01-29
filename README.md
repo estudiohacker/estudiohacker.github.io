@@ -2,9 +2,10 @@
 Grupo multidisciplinar que realiza atividades de arte e tecnologia, baseadas na filosofia hacker e na abordagem pedagógica Aprendizagem Criativa.
 
 ### Redes Sociais
-* [twitter.com/estudiohacker](http://twitter.com/estudiohacker)
 * [facebook.com/estudiohacker](https://www.facebook.com/estudiohacker)
 * [github.com/estudiohacker](https://github.com/estudiohacker)
+* [instagram.com/estudiohacker](https://www.instagram.com/estudiohacker)
+* [twitter.com/estudiohacker](https://twitter.com/estudiohacker)
 
 ### Contato
 [envie uma mensagem](https://docs.google.com/forms/d/1kIa9-KfjdoMsAOIdv8ikkvAwN3jpIISr8Ax-toXptMs/)
