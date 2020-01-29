@@ -1,5 +1,5 @@
 # estúdio hacker
-Grupo multidisciplinar que realiza atividades tecnológicas e artísticas, baseados na filosofia hacker e na abordagem pedagógica Aprendizagem Criativa.
+Grupo multidisciplinar que realiza atividades de arte e tecnologia, baseadas na filosofia hacker e na abordagem pedagógica Aprendizagem Criativa.
 
 ### Redes Sociais
 * [twitter.com/estudiohacker](http://twitter.com/estudiohacker)
