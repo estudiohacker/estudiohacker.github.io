@@ -125,11 +125,15 @@ Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/20
 
 ### Monitoramento de enchentes na Technology HUB 2019
 
+Com João Adriano Freitas e Maurício Mudrik, nos dias 17 e 18 de setembro de 2019.
+
 O projeto "Monitoramento de enchentes", desenvolvido por João Adriano Freitas e Maurício Mudrik, foi selecionado pelo Desafio IoT 2019 para a exposição ao público no Technology Hub 2019. O desenvolvimento teve o apoio do Núcleo de Mídias, Artes e Tecnologia de Paraty, Defesa Civil e CEMADEN. A exposição acontecerá nos dias 17 e 18 de setembro de 2019, das 13hs às 20hs, no Pro Magno Centro de Eventos, na Av. Profª Ida Kolb, 513, Casa Verde. A entrada é gratuita.
 
-Mais informações sobre o desafio na [página do Desafio IoT](https://desafiot.org.br/).
+Mais informações sobre o desafio na [página do Desafio IoT](https://desafiot.org.br/a-quarta-edicao-do-desafio-iot/).
 
 Mais informações sobre o evento na [página do Technology Hub 2019](https://technologyhub.com.br/).
+
+Veja também [artigo a respeito do evento](http://www.agenciaoglobo.com.br/dinonews/Default.aspx?idnot=64071&tit=Dez+startups+levam+solu%c3%a7%c3%b5es+a+evento+focado+em+IoT).
 
 ### Let's Go Festival 2019
 
