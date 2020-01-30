@@ -14,21 +14,32 @@ Grupo multidisciplinar que realiza atividades de arte e tecnologia, baseadas na 
 ## Próximas atividades
 ----
 
-### Internet das Coisas para Iniciantes no SESC 24 de maio
+### Internet das Coisas para Bicicletas
 
-Com Allan Moreira e João Adriano Freitas, nos dias 12, 19 e 26 de setembro, 3, 10, 17, 24 e 31 de outubro, 7, 14, 21 e 28 de novembro, e 5 de dezembro de 2019.
+Com Allan Moreira e João Adriano Freitas, nos dias 14, 21 e 28 de janeiro, e 4 de fevereiro de 2020.
 
-A proposta tem como objetivo introduzir os principais conceitos de Internet das Coisas e suas aplicações através do uso de microcontroladores compatíveis com Arduino e mini-computadores de placa única como o Raspberry PI, em uma abordagem mão na massa orientada a projetos. A partir de sensores e atuadores como LEDs, potenciômetros, LDRs, buzzers, botões, temperatura, umidade do solo, ultrasônico, relês, servo motor, movimento etc e protocolos de comunicação como o MQTT, os participantes poderão criar projetos que serão monitorados e controlados tanto localmente como pela internet a partir de páginas ou dispositivos móveis como celulares e tablets.
+O curso tem como objetivo introduzir os principais conceitos de internet das coisas e suas aplicações na construção de acessórios eletrônicos para bicicletas, por meio do uso de microcontroladores compatíveis com Arduino, em uma abordagem mão na massa. A partir de sensores de qualidade do ar, temperatura, umidade, GPS, etc, exploraremos as possibilidades de criação de acessórios para bicicletas, desde a concepção do projeto até a versão final, quando monitoraremos seus resultados pela internet.
 
-Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/203383_IOT+INTERNET+DAS+COISAS+PARA+INICIANTES).
+Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/214175_INTERNET+DAS+COISAS+PARA+BICICLETAS).
 
-### Hack Day de Eletrônica e Internet das Coisas no SESC 24 de maio
+## Atividades recentes
+----
 
-Com Allan Moreira e João Adriano Freitas, nos dias 14 e 28 de setembro, e 10 de novembro de 2019.
+### Vivência Capture a Bandeira no SESC Taubaté
 
-No Open Hack Day aberto ao público, os participantes terão a oportunidade de montarem seus próprios projetos de IoT (Internet das Coisas) a partir de temáticas que serão estabelecidas e dos materiais que teremos disponíveis. O dia começa com uma pequena apresentação sobre a temática e logo em seguida os participantes se reúnem em grupos para colocarem em prática as suas soluções de Internet das Coisas.
+Com Allan Moreira e João Adriano Freitas, nos dias 7, 8, 9 e 10 de janeiro de 2020.
 
-Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/203384_HACK+DAY+DE+ELETRONICA+E+INTERNET+DAS+COISAS).
+Os participantes resolvem diversos desafios de criptografia que os ajudam a entender mais sobre segurança e sistemas de comunicação. Os desafios podem ser resolvidos em grupos ou até mesmo de forma individual. Os participantes iniciam a atividade com desafios simples e a complexidade vai aumentando à medida que avançam. Os desafios tratam temas como alfabeto Leet, Cifra de César, Cifra Maçônica, Braille, Sistema Hexa e Binário etc Toda a atividade acontece sem o uso de computadores e internet.
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/216668_OFICINA+CAPTURE+A+BANDEIRA).
+
+### Meu Primeiro Circuito Eletrônico nas Oficinas Culturais do Estado de São Paulo
+
+Com João Adriano Freitas, nos dias 23 e 30 de novembro, e 7 de dezembro de 2019.
+
+Por meio da robótica os participantes terão o primeiro contato com o mundo da eletrônica, onde aprenderão sobre o funcionamento dos principais componentes utilizados em qualquer aparelho eletrônico e suas diferentes características. Um dos desafios da oficina será criar um circuito completo para uma luz de emergência, que ao final poderá ser levada para casa.
+
+https://oficinasculturais.org.br/atividade/oficina-livre-de-robotica-meu-primeiro-circuito-eletronico/
 
 ### Renove seu Brinquedo no SESC Paulista
 
@@ -38,16 +49,21 @@ A atividade propõe aos participantes um aprendizado sobre arte e eletrônica po
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/205297_RENOVE+SEU+BRINQUEDO).
 
-### Criando placas de Circuito Impresso nas Oficinas Culturais do Estado de São Paulo
+### Hack Day de Eletrônica e Internet das Coisas no SESC 24 de maio
 
-Com João Adriano Freitas, nos dias 23 e 30 de novembro, e 7 de dezembro de 2019.
+Com Allan Moreira e João Adriano Freitas, nos dias 14 e 28 de setembro, e 10 de novembro de 2019.
 
-Aprenda a criar suas próprias placas eletrônicas. Nas aulas, os participantes testam componentes eletrônicos e desenham um circuito nas placas, que depois são corroídas criando um circuito elétrico.
+No Open Hack Day aberto ao público, os participantes terão a oportunidade de montarem seus próprios projetos de IoT (Internet das Coisas) a partir de temáticas que serão estabelecidas e dos materiais que teremos disponíveis. O dia começa com uma pequena apresentação sobre a temática e logo em seguida os participantes se reúnem em grupos para colocarem em prática as suas soluções de Internet das Coisas.
 
-Mais informações em breve.
+Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/203384_HACK+DAY+DE+ELETRONICA+E+INTERNET+DAS+COISAS).
 
-## Atividades recentes
-----
+### Internet das Coisas para Iniciantes no SESC 24 de maio
+
+Com Allan Moreira e João Adriano Freitas, nos dias 12, 19 e 26 de setembro, 3, 10, 17, 24 e 31 de outubro, 7, 14, 21 e 28 de novembro, e 5 de dezembro de 2019.
+
+A proposta tem como objetivo introduzir os principais conceitos de Internet das Coisas e suas aplicações através do uso de microcontroladores compatíveis com Arduino e mini-computadores de placa única como o Raspberry PI, em uma abordagem mão na massa orientada a projetos. A partir de sensores e atuadores como LEDs, potenciômetros, LDRs, buzzers, botões, temperatura, umidade do solo, ultrasônico, relês, servo motor, movimento etc e protocolos de comunicação como o MQTT, os participantes poderão criar projetos que serão monitorados e controlados tanto localmente como pela internet a partir de páginas ou dispositivos móveis como celulares e tablets.
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/203383_IOT+INTERNET+DAS+COISAS+PARA+INICIANTES).
 
 ### Conferência Brasileira de Aprendizagem Criativa 2019
 
