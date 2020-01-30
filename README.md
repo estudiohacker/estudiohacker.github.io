@@ -14,7 +14,7 @@ Grupo multidisciplinar que realiza atividades de arte e tecnologia, baseadas na 
 ## Próximas atividades
 ----
 
-### Internet das Coisas para Bicicletas
+### Internet das Coisas para Bicicletas no SESC Paulista
 
 Com Allan Moreira e João Adriano Freitas, nos dias 14, 21 e 28 de janeiro, e 4 de fevereiro de 2020.
 
@@ -45,13 +45,29 @@ Os participantes resolvem diversos desafios de criptografia que os ajudam a ente
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/216668_OFICINA+CAPTURE+A+BANDEIRA).
 
+### Visualização de Dados com o Scratch no Open Day no Mundo Maker
+
+Com João Adriano Freitas, no dia 23 de novembro de 2019.
+
+A partir de uma experimentação mão na massa, os participantes poderão explorar diferentes possibilidades de visualização de dados utilizando uma nova extensão para o Scratch 3.0. A extensão desenvolvida tem como principal objetivo auxiliar estudantes da educação básica em seus primeiros passos na ciência de dados e abrir possibilidades para novos tipos de visualizações que vão além do plano cartesiano.
+
+Mais informações na [página do Mundo Maker](https://www.mundomaker.cc/openday-vilamadalena/)
+
 ### Meu Primeiro Circuito Eletrônico nas Oficinas Culturais do Estado de São Paulo
 
 Com João Adriano Freitas, nos dias 23 e 30 de novembro, e 7 de dezembro de 2019.
 
 Por meio da robótica os participantes terão o primeiro contato com o mundo da eletrônica, onde aprenderão sobre o funcionamento dos principais componentes utilizados em qualquer aparelho eletrônico e suas diferentes características. Um dos desafios da oficina será criar um circuito completo para uma luz de emergência, que ao final poderá ser levada para casa.
 
-https://oficinasculturais.org.br/atividade/oficina-livre-de-robotica-meu-primeiro-circuito-eletronico/
+Mais informações na [página Oficinas Culturais](https://oficinasculturais.org.br/atividade/oficina-livre-de-robotica-meu-primeiro-circuito-eletronico/)
+
+### Criando visualizações para dados no Scratch no Scratch Day da PUC São Paulo
+
+Com Cassia Fernandez e João Adriano Freitas no dia 26 de outubro de 2019.
+
+A partir de uma experimentação mão na massa, os participantes poderão explorar diferentes possibilidades de visualização de dados utilizando uma nova extensão para o Scratch 3.0. A extensão desenvolvida tem como principal objetivo auxiliar estudantes da educação básica em seus primeiros passos na ciência de dados e abrir possibilidades para novos tipos de visualizações que vão além do plano cartesiano.
+
+Mais informações na [página do evento](https://docs.google.com/document/d/1zmgEIgMr5ntdfoWDCrpFMTNHYKCLcl2AodJraOyNstI/edit).
 
 ### Renove seu Brinquedo no SESC Paulista
 
