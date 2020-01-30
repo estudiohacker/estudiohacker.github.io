@@ -61,6 +61,14 @@ Por meio da robótica os participantes terão o primeiro contato com o mundo da 
 
 Mais informações na [página Oficinas Culturais](https://oficinasculturais.org.br/atividade/oficina-livre-de-robotica-meu-primeiro-circuito-eletronico/)
 
+### Desafio Hackaton de Robótica no 3o. Seminário e Mostra de Tecnologias para Aprendizagem de Secretaria Municipal da Educação de São Paulo
+
+Com João Adriano Freitas, nos dias 13 e 14 de novembro de 2019.
+
+Mediação da maratona de programação, onde reuniremos os alunos do Ensino Médio das escolas municipais da cidade de São Paulo em um desafio de 2 dias que envolverá o uso dos Kits de Robótica disponibilizados e a prototipação de uma solução inovadora para problemas reais.
+
+Mais informações na [página do evento](https://sites.google.com/view/seminariotpa2019/programa%C3%A7%C3%A3o)
+
 ### Criando visualizações para dados no Scratch no Scratch Day da PUC São Paulo
 
 Com Cassia Fernandez e João Adriano Freitas no dia 26 de outubro de 2019.
