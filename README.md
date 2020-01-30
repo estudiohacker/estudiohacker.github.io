@@ -143,6 +143,8 @@ Esta atividade é voltada para quem já tem conhecimento em Scratch e quer come�
 
 Mais informações na [página do evento](https://www.letsgofestival.com.br/programacao/).
 
+[Programação completa do evento](https://www.letsgofestival.com.br/wp-content/uploads/2019/08/programacao-29-08.pdf)
+
 ### Computação Criativa com Scratch e BBC micro:bit no Ciclo formativo de Aprendizagem Criativa
 
 Com João Adriano Freitas, nos dias 31 de julho e 21 de agosto de 2019.
