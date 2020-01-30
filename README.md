@@ -101,6 +101,14 @@ A proposta tem como objetivo introduzir os principais conceitos de Internet das 
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/203383_IOT+INTERNET+DAS+COISAS+PARA+INICIANTES).
 
+### Festival de Inventividade e Tecnologias para Aprendizagem da Diretorial Regional da Educação de São Migual
+
+Com João Adriano Freitas, no dia 31 de outubro de 2019.
+
+Mediação da JAM de Robótica, uma iniciativa do Núcleo Técnico para Aprendizagem (TPA) que vem sendo realizada pela Equipe de Tecnologia para Aprendizagem de forma centralizada (dentro da Mostra de Tecnologias) e regionalmente com o propósito de engajar escolas, professores e alunos na Robótica.
+
+Na maratona de Robótica os alunos prototipam uma estrutura de forma livre e criativa, respondendo a algumas comandas iniciais e depois realizam a programação da estrutura com o auxilio da linguagem de programação ardublock que utiliza bloco de funções prontas.
+
 ### Conferência Brasileira de Aprendizagem Criativa 2019
 
 Com João Adriano Freitas em setembro de 2019.
@@ -188,6 +196,16 @@ Com João Adriano Freitas, nos dias 17, 24 e 31 de maio de 2019.
 Iniciação de jovens e crianças à computação criativa, abordando conceitos de arte e tecnologia a partir de atividades mão na massa. Nas atividades temos diversos desafios ligados a temas atuais como saúde, bem-estar, ciência dos dados, automação etc. Os participantes constroem protótipos com o BBC micro:bit utilizando materiais de papelaria e recicláveis, enquanto aprendem lógica de programação a partir do uso de linguagem de programação em blocos.
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/192063_COMPUTACAO+CRIATIVA+COM+BBC+MICROBIT).
+
+### JAM de robótica da Diretoria Regional de Educação de Itaquera
+
+Com João Adriano Freitas, no dia 27 de maio de 2019.
+
+Mediação da JAM de Robótica, uma iniciativa do Núcleo Técnico para Aprendizagem (TPA) que vem sendo realizada pela Equipe de Tecnologia para Aprendizagem de forma centralizada (dentro da Mostra de Tecnologias) e regionalmente com o propósito de engajar escolas, professores e alunos na Robótica.
+
+Na maratona de Robótica os alunos prototipam uma estrutura de forma livre e criativa, respondendo a algumas comandas iniciais e depois realizam a programação da estrutura com o auxilio da linguagem de programação ardublock que utiliza bloco de funções prontas.
+
+Mais informações na [página do evento](http://portal.sme.prefeitura.sp.gov.br/Main/Noticia/Visualizar/PortalSMESP/Escolas-Municipais-participam-de-evento-de-Robotica).
 
 ### Scratch Day no SESC Santana
 
