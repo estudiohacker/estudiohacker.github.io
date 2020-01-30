@@ -22,6 +22,22 @@ O curso tem como objetivo introduzir os principais conceitos de internet das coi
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/214175_INTERNET+DAS+COISAS+PARA+BICICLETAS).
 
+### Eletrônica para Raspberry Pi no SESC 24 de maio
+
+Com Allan Moreira e João Adriano Freitas, em março e abril de 2020.
+
+A proposta tem como objetivo introduzir as principais funcionalidades do Raspberry Pi e suas aplicações em uma abordagem mão na massa orientada a projetos. A partir de matrizes de LEDs, botões, sensores de temperatura, distância e movimento, relês, servo motor, fitas de LED etc, os participantes poderão criar projetos de automação residencial, estação meteorológica, animações com fita de LED.
+
+Mais informações em breve.
+
+### Sistemas Embarcados com Raspberry Pi no SESC 24 de maio
+
+Com Allan Moreira e João Adriano Freitas, em abril, maio e junho de 2020.
+
+A proposta tem como objetivo introduzir os participantes a criação de sistemas embarcados com Raspberry Pi (um pequeno computador que pode ser conectado na TV). Em uma abordagem mão na massa, criaremos dashboards para monitorar e controlar uma casa inteligente, assistente pessoal, central de mídias, painéis de senha etc.
+
+Mais informações em breve.
+
 ## Atividades recentes
 ----
 
