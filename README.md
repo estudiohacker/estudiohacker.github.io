@@ -25,6 +25,18 @@ Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/214175_I
 ## Atividades recentes
 ----
 
+### Máquina de Rube Goldberg na Caixa Cultural
+
+Com João Adriano Freitas, no dia 25 de janeiro de 2020.
+
+Em comemoração aos 466 anos da Cidade de São Paulo, o Programa Educativo CAIXA Gente Arteira São Paulo, convida as famílias para participar de uma vivência eletrônica lúdica junto com as crianças, criando uma Máquina de Rube Goldberg. 
+
+Essa vivência coletiva reúne pessoas para uma ação participativa na qual os integrantes aprendem sobre arte e eletrônica através da construção de uma máquina que executa uma tarefa simples, da forma mais complicada possível, utilizando reações em cadeia. Os participantes exercitam sua criatividade, suas habilidades motoras e cognitivas e transformam sua compreensão da física em um processo lúdico.
+
+[Inscrições pelo formulário](https://docs.google.com/forms/d/e/1FAIpQLSe-T7bJheLze_yBwPdNpvXY4lH7i27ryAHUXjflujdDvivgow/viewform)
+
+Mais informações na [página da Caixa Cultural](https://www.facebook.com/events/568456203977691/).
+
 ### Vivência Capture a Bandeira no SESC Taubaté
 
 Com Allan Moreira e João Adriano Freitas, nos dias 7, 8, 9 e 10 de janeiro de 2020.
