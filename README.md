@@ -143,7 +143,7 @@ Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/20
 
 Com João Adriano Freitas e Maurício Mudrik, nos dias 17 e 18 de setembro de 2019.
 
-O projeto "Monitoramento de enchentes", desenvolvido por João Adriano Freitas e Maurício Mudrik, foi selecionado pelo Desafio IoT 2019 para a exposição ao público no Technology Hub 2019. O desenvolvimento teve o apoio do Núcleo de Mídias, Artes e Tecnologia de Paraty, Defesa Civil e CEMADEN. A exposição acontecerá nos dias 17 e 18 de setembro de 2019, das 13hs às 20hs, no Pro Magno Centro de Eventos, na Av. Profª Ida Kolb, 513, Casa Verde. A entrada é gratuita.
+O projeto "Monitoramento de enchentes", desenvolvido por João Adriano Freitas e Maurício Mudrik, foi selecionado pelo Desafio IoT 2019 para a exposição ao público no Technology Hub 2019, sagrando-se vencedor. O desenvolvimento teve o apoio do Núcleo de Mídias, Artes e Tecnologia de Paraty, Defesa Civil e CEMADEN. A exposição acontecerá nos dias 17 e 18 de setembro de 2019, das 13hs às 20hs, no Pro Magno Centro de Eventos, na Av. Profª Ida Kolb, 513, Casa Verde. A entrada é gratuita.
 
 Mais informações sobre o desafio na [página do Desafio IoT](https://desafiot.org.br/a-quarta-edicao-do-desafio-iot/).
 
