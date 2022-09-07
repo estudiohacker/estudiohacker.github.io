@@ -13,6 +13,31 @@ Grupo multidisciplinar que realiza atividades de arte e tecnologia, baseadas na 
 
 ## Próximas atividades
 ----
+### Meu Primeiro Game: Criação de Jogo Eletrônico no SESC Paulista
+Com Allan Moreira e Allisson Moreira no mês de 3, 10 ,17 e 24 de setembro de 2022.
+
+Os participantes serão apresentados a conceitos fundamentais para a criação e programação de jogos, como sprites, variáveis e coordenadas, e os colocarão em prática para criar e personalizar seus próprios jogos eletrônicos.
+
+Mais informações na [página 48 da Programação Setembro SESC Paulista](https://www.sescsp.org.br/wp-content/uploads/2022/08/sesc_cursosEOficinas2022_livreto_08_setembro_digital.pdf).
+
+## Atividades recentes
+----
+
+### FIC SP 6ᵃ EDIÇÃO no Centro Cultural São Paulo - CCSP
+Com Allan Moreira e Allisson Moreira no mês de 19 e 20 de agosto de 2022.
+
+Festival de Invenção e Criatividade é uma grande celebração do espírito inventivo, colaborativo e mão na massa da educação brasileira. 
+Levamos uma proposta de aprendizado baseado em jogos para aumentar o envolvimento dos alunos usando a plataforma MakeCode Arcade.
+Ambiente de programação baseado em blocos visuais, com opções de JavaScript e Python para alunos mais avançados.
+
+
+### Construção de Carro Autônomo no SESC Paulista
+
+Com Allan Moreira e Allisson Moreira no mês de 7, 14 ,21 e 28 de agosto de 2022.
+
+Voltada para iniciantes, a atividade propõe ao participante a construção de um carro autônomo que se locomove sem a necessidade de intervenção humana, em uma abordagem bastante prática
+
+Mais informações na [página 38 da Programação Setembro SESC Paulista](https://www.sescsp.org.br/wp-content/uploads/2022/07/sesc_cursosEOficinas2022_livreto_08_agosto_digital.pdf).
 
 ### Internet das Coisas para Bicicletas no SESC Paulista
 
@@ -28,7 +53,6 @@ Com Allan Moreira e João Adriano Freitas, em março e abril de 2020.
 
 A proposta tem como objetivo introduzir as principais funcionalidades do Raspberry Pi e suas aplicações em uma abordagem mão na massa orientada a projetos. A partir de matrizes de LEDs, botões, sensores de temperatura, distância e movimento, relês, servo motor, fitas de LED etc, os participantes poderão criar projetos de automação residencial, estação meteorológica, animações com fita de LED.
 
-Mais informações em breve.
 
 ### Sistemas Embarcados com Raspberry Pi no SESC 24 de maio
 
@@ -36,10 +60,6 @@ Com Allan Moreira e João Adriano Freitas, em abril, maio e junho de 2020.
 
 A proposta tem como objetivo introduzir os participantes a criação de sistemas embarcados com Raspberry Pi (um pequeno computador que pode ser conectado na TV). Em uma abordagem mão na massa, criaremos dashboards para monitorar e controlar uma casa inteligente, assistente pessoal, central de mídias, painéis de senha etc.
 
-Mais informações em breve.
-
-## Atividades recentes
-----
 
 ### Máquina de Rube Goldberg na Caixa Cultural
 
