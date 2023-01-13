@@ -13,17 +13,39 @@ Grupo multidisciplinar que realiza atividades de arte e tecnologia, baseadas na 
 
 ## Próximas atividades
 ----
+
+### Hackers Mirins no SESC Pompéia
+
+Com Allan Moreira e João Adriano Freitas nos dias 17, 24 e 31 de janeiro e 7 e 14 de fevereiro de 2023.
+
+Nesta oficina a proposta é iniciar jovens e crianças à robótica criativa, abordando conceitos de arte, eletrônica, criação de game e computação a partir de atividades mão na massa, que incentivam a colaboração entre os alunos. 
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/hackers-mirins/).
+
+### Capture a bandeira no SESC Pompéia
+
+Com Allan Moreira e João Adriano Freitas nos dias 21, 22, 28 e 29 de janeiro e 4, 5, 11, 12, 18 e 19 de fevereiro de 2023.
+
+Na atividade, os participantes resolvem diversos desafios de criptografia que os ajudam a entender mais sobre segurança e sistemas de comunicação. Os desafios podem ser resolvidos em grupos ou até mesmo de forma individual. 
+
+Os participantes iniciam a atividade com desafios simples e a complexidade vai aumentando à medida que avançam. Os desafios tratam temas como alfabeto Leet, Cifra de César, Cifra Maçônica, Braille, Sistema Hexa e Binário, Código Morse etc. 
+
+Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/capture-a-bandeira/).
+
+## Atividades recentes
+----
+
 ### Meu Primeiro Game: Criação de Jogo Eletrônico no SESC Paulista
+
 Com Allan Moreira e Allisson Moreira no mês de 3, 10 ,17 e 24 de setembro de 2022.
 
 Os participantes serão apresentados a conceitos fundamentais para a criação e programação de jogos, como sprites, variáveis e coordenadas, e os colocarão em prática para criar e personalizar seus próprios jogos eletrônicos.
 
 Mais informações na [página 48 da Programação Setembro SESC Paulista](https://www.sescsp.org.br/wp-content/uploads/2022/08/sesc_cursosEOficinas2022_livreto_08_setembro_digital.pdf).
 
-## Atividades recentes
-----
 
 ### FIC SP 6ᵃ EDIÇÃO no Centro Cultural São Paulo - CCSP
+
 Com Allan Moreira e Allisson Moreira no mês de 19 e 20 de agosto de 2022.
 
 Festival de Invenção e Criatividade é uma grande celebração do espírito inventivo, colaborativo e mão na massa da educação brasileira. 
