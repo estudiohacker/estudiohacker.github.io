@@ -14,6 +14,19 @@ Grupo multidisciplinar que realiza atividades de arte e tecnologia, baseadas na 
 ## Próximas atividades
 ----
 
+### Circuito SESC de Artes 2023
+
+Entre os dias 28 de outubro e 26 novembro de 2023, Allan Moreira, João Adriano Freitas, Leilane Sousa, Allisson Moreira, Áliky Martiniuk e Agatha Rodrigues participam do Circuito SESC de Artes com a atividade Capture a Bandeira: Desafio Hacker.
+
+Mais informações na [página do SESC](https://circuito.sescsp.org.br/).
+
+## Atividades recentes
+----
+
+### FestA! no SESC Pompéia
+
+Com Allan Moreira e João Adriano Freitas entre os dias 9 de julho e 15 de julho 2023.
+
 ### Hackers Mirins no SESC Pompéia
 
 Com Allan Moreira e João Adriano Freitas nos dias 17, 24 e 31 de janeiro e 7 e 14 de fevereiro de 2023.
@@ -32,9 +45,6 @@ Os participantes iniciam a atividade com desafios simples e a complexidade vai a
 
 Mais informações na [página do SESC](https://www.sescsp.org.br/programacao/capture-a-bandeira/).
 
-## Atividades recentes
-----
-
 ### Meu Primeiro Game: Criação de Jogo Eletrônico no SESC Paulista
 
 Com Allan Moreira e Allisson Moreira no mês de 3, 10 ,17 e 24 de setembro de 2022.
@@ -43,7 +53,6 @@ Os participantes serão apresentados a conceitos fundamentais para a criação e
 
 Mais informações na [página 48 da Programação Setembro SESC Paulista](https://www.sescsp.org.br/wp-content/uploads/2022/08/sesc_cursosEOficinas2022_livreto_08_setembro_digital.pdf).
 
-
 ### FIC SP 6ᵃ EDIÇÃO no Centro Cultural São Paulo - CCSP
 
 Com Allan Moreira e Allisson Moreira no mês de 19 e 20 de agosto de 2022.
@@ -51,7 +60,6 @@ Com Allan Moreira e Allisson Moreira no mês de 19 e 20 de agosto de 2022.
 Festival de Invenção e Criatividade é uma grande celebração do espírito inventivo, colaborativo e mão na massa da educação brasileira. 
 Levamos uma proposta de aprendizado baseado em jogos para aumentar o envolvimento dos alunos usando a plataforma MakeCode Arcade.
 Ambiente de programação baseado em blocos visuais, com opções de JavaScript e Python para alunos mais avançados.
-
 
 ### Construção de Carro Autônomo no SESC Paulista
 
@@ -74,7 +82,6 @@ Mais informações na [página do SESC](https://www.sescsp.org.br/aulas/214175_I
 Com Allan Moreira e João Adriano Freitas, em março e abril de 2020.
 
 A proposta tem como objetivo introduzir as principais funcionalidades do Raspberry Pi e suas aplicações em uma abordagem mão na massa orientada a projetos. A partir de matrizes de LEDs, botões, sensores de temperatura, distância e movimento, relês, servo motor, fitas de LED etc, os participantes poderão criar projetos de automação residencial, estação meteorológica, animações com fita de LED.
-
 
 ### Sistemas Embarcados com Raspberry Pi no SESC 24 de maio
 
