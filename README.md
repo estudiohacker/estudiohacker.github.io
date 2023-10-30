@@ -18,6 +18,16 @@ Grupo multidisciplinar que realiza atividades de arte e tecnologia, baseadas na 
 
 Entre os dias 28 de outubro e 26 novembro de 2023, Allan Moreira, João Adriano Freitas, Leilane Sousa, Allisson Moreira, Áliky Martiniuk e Agatha Rodrigues participam do Circuito SESC de Artes com a atividade Capture a Bandeira: Desafio Hacker.
 
+Programação completa:
+* Itariri: 28 de outubro, sábado, das 16h às 20h.
+* Iguape: 29 de outubro, domingo, das 15h às 19h.
+* Juquiá: 11 de novembro, sábado, das 16h às 20h.
+* Ilha Comprida: 12 de novembro, domingo, das 16h às 20h.
+* Pedro de Toledo: 18 de novembro, sábado, das 16h às 20h.
+* Bertioga: 19 de novembro, domingo, das 16h às 20h.
+* Cubatão: 25 de novembro, sábado, das 16h às 20h.
+* Itanhaém: 26 de novembro, domingo, das 15h às 19h.
+
 Mais informações na [página do SESC](https://circuito.sescsp.org.br/).
 
 ## Atividades recentes
