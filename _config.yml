@@ -1,6 +1,6 @@
-remote_theme: jekyll/minima
-plugins: 
-  - jekyll-remote-theme
+# remote_theme: jekyll/minima
+# plugins: 
+#   - jekyll-remote-theme
 
 title: estúdio hacker
 
@@ -23,4 +23,4 @@ url: http://estudiohacker.io
 
 logo: /assets/logo.png
 
-google_analytics: "G-WW81J5P0ZL"
+# google_analytics: "G-WW81J5P0ZL"
